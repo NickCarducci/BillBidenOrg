@@ -3,6 +3,11 @@ import "./styles.css";
 export default function App() {
   return (
     <div className="App">
+      Bernie Sanders, you gohoul, you have no proof of what the majority of
+      people want, not even the Presidential election can get more than 60% of
+      the voting age convicts
+      <br />
+      <br />
       <a href="https://vianickcarducci.medium.com/gdp-the-big-lie-b1a0868785f4">
         man of your own thought, accosting you’re fucking customers you loiter
       </a>
