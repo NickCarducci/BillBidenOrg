@@ -22,8 +22,14 @@ export default function App() {
       kill yourself
       <br />
       <br />
-      The left always want to correlate lifestyle free-rider to convict by
-      association unless it is killed by cop-knee at the same time
+      The left always want to correlate lifestyle
+      free-rider-of-societal-inclusion to convict by association unless it is
+      killed by cop-knee at the same time
+      <br />
+      <br />
+      So the news is talking about Long making the kill for sex addiction and
+      racism for the lockdowns? I experience racism bc austrian economists are
+      nazis
       <br />
       <br />
       Compete with monopsony-pugs, unfairly?
