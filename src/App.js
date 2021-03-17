@@ -110,7 +110,16 @@ export default function App() {
       <br />
       <br />
       cops can hide and be undercover/brandish, but not lie to get confession to
-      incriminate as only form of evidence
+      incriminate as only form of evidence&nbsp;
+      <div
+        style={{
+          position: "fixed",
+          bottom: "0px",
+          right: "0px"
+        }}
+      >
+        Saver Party, Consumer Advocacy & Civil Rights
+      </div>
     </div>
   );
 }
