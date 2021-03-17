@@ -22,8 +22,8 @@ export default function App() {
       kill yourself
       <br />
       <br />
-      The left always want to correlate lifestyle to convict by association
-      unless it is killed by cop-knee at the same time
+      The left always want to correlate lifestyle free-rider to convict by
+      association unless it is killed by cop-knee at the same time
       <br />
       <br />
       Compete with monopsony-pugs, unfairly?
