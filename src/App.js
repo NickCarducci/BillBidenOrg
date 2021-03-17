@@ -24,8 +24,10 @@ export default function App() {
       that is one way to describe dispondence
       <br />
       <br />
+      <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1236580/">kill</a>
+      &nbsp;
       <a href="https://www.the-scientist.com/news-opinion/nih-cancels-funding-for-bat-coronavirus-research-project-67486">
-        kill yourself
+        yourself
       </a>
       <br />
       <br />
