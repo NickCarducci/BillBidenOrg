@@ -3,6 +3,13 @@ import "./styles.css";
 export default function App() {
   return (
     <div className="App">
+      Fleeing is not resisting, by definition
+      <br />
+      <br />
+      Lying under oath and under duress (ignoring A4, A5) means the only penalty
+      can be for the crime
+      <br />
+      <br />
       <div>
         <a href="https://www.academia.edu/43983364/Review_Capitalism_in_the_21st_Century">
           revolution
