@@ -8,6 +8,14 @@ export default function App() {
       </a>
       <br />
       <br />
+      ooo scholars… suicide is because of rentier-colonialism, not spiritual
+      moorings. debt:cash used to be 1:1
+      <br />
+      as cash was asset, and debt was certificate
+      <br />
+      now is 41:1, and 0:1
+      <br />
+      <br />
       kill yourself
       <br />
       <br />
