@@ -4,6 +4,13 @@ export default function App() {
   return (
     <div className="App">
       <div>
+        revolution is self-defense while&nbsp;
+        <a href="https://vaults.biz">vault.biz</a>
+        &nbsp;exists
+      </div>
+      &nbsp;you can beat someone up or detroy their supposed property as an
+      equal-or-less reciprocation, or to suspend further compounding.
+      <div>
         "Show me what you need, I'll get those contractors down there" - Joe
         Biden. I bought this domain, for a year, with the partial
         equityutilitymoney split Joe and Donald tweaked out
