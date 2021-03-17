@@ -54,6 +54,16 @@ export default function App() {
       of labor and the still malfeasant adjudication of rent-seeking without
       intent to use demand slavery settlement price elasticity
       prohibition/counterfeit-in-contract "forgiveness"
+      <br />
+      <br />
+      issues are either trading-assets, -bondage/-people/-supplyChain/-demand,
+      loitering or inclusion... which to me none are debatable lmao. I am a
+      minarchist and adhere to microeconomics over macroeconomics. I’m trying to
+      teach everyone economics micro-theory.com and bringing a class action suit
+      against finance/insurance/rent-seeker colonialists and reenumerate wealth
+      disparity to cash:debt of prices or yearEnd cash holdings per family... or
+      something between those as policy for my candidacy thru saverparty.xyz in
+      nj us senate
     </div>
   );
 }
