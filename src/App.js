@@ -31,7 +31,19 @@ export default function App() {
       racism for the lockdowns? I experience racism bc austrian economists are
       nazis... "hate crimes includes sex?" Wolf Blitzer likes to point out (what
       is even the punitive change?). ANYTHING WITH INTENT YES HE CLAIMED IT
-      UNLESS THERE IS DOUBT IT IS FAKE? you guys are so stupid!
+      UNLESS THERE IS DOUBT IT IS FAKE? you guys are so stupid! "Certainly has a
+      lot going on, his family would testify," Wolf correlates. Like the 3-4k
+      witnesses you ignore for citing election crimes or that only 1000
+      individuals crossed the antartic? You need to be consistent in your class-
+      or lifestyle-based assumptions. I have an instable-mind record but because
+      I am smarter in economics and I am reasonably pissed for the institutional
+      corruption evident at the univerisity in their economics department to
+      which I went with the intention of investigating Market History, namely
+      because my&nbsp;
+      <a href="https://www.academia.edu/43983364/Review_Capitalism_in_the_21st_Century">
+        family just bought properties
+      </a>
+      &nbsp; to&nbsp;<a href="https://kmhughes.com">flip</a>
       <br />
       <br />
       Compete with monopsony-pugs, unfairly?
