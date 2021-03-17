@@ -9,11 +9,13 @@ export default function App() {
       <br />
       <br />
       ooo scholars… suicide is because of rentier-colonialism, not spiritual
-      moorings. debt:cash used to be 1:1
+      moorings. debt:cash used to be&nbsp;
+      <a href="https://froth.app/debt">1:1</a>
       <br />
       as cash was asset, and debt was certificate
       <br />
-      now is 41:1, and 0:1
+      now is&nbsp;<a href="https://micro-theory.com">41:1</a>, and&nbsp;
+      <a href="https://vaults.biz">0:1</a>
       <br />
       <br />
       kill yourself
