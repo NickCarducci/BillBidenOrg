@@ -29,7 +29,9 @@ export default function App() {
       <br />
       So the news is talking about Long making the kill for sex addiction and
       racism for the lockdowns? I experience racism bc austrian economists are
-      nazis
+      nazis... "hate crimes includes sex?" Wolf Blitzer likes to point out (what
+      is even the punitive change?). ANYTHING WITH INTENT YES HE CLAIMED IT
+      UNLESS THERE IS DOUBT IT IS FAKE? you guys are so stupid!
       <br />
       <br />
       Compete with monopsony-pugs, unfairly?
