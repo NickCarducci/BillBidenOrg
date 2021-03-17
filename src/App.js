@@ -15,7 +15,8 @@ export default function App() {
       as cash was asset, and debt was certificate
       <br />
       now is&nbsp;<a href="https://micro-theory.com">41:1</a>, and&nbsp;
-      <a href="https://vaults.biz">0:1</a>
+      <a href="https://vaults.biz">0:1</a>&nbsp;although if G-d is everything,
+      that is one way to describe dispondence
       <br />
       <br />
       kill yourself
