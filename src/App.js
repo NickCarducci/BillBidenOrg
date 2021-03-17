@@ -42,8 +42,9 @@ export default function App() {
       PPP: Apply to get my equity back unless I am a laborer? We have no&nbsp;
       <a href="https://saverparty.xyz">Civil Rights</a>.&nbsp;Can't believe I
       didn't bring up the work-product for business, instead of only monopsony
-      of labor and the still malfeasant adjudication of rent-seeking without
-      intent to use demand slavery settlement price elasticity
+      of labor and the still malfeasant&nbsp;
+      <a href="https://froth.app/debt">adjudication</a>&nbsp;of rent-seeking
+      without intent to use demand slavery settlement price elasticity
       prohibition/counterfeit-in-contract "forgiveness"
       <br />
       <br />
