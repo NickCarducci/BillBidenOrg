@@ -121,7 +121,8 @@ export default function App() {
           right: "0px"
         }}
       >
-        Saver Party, Consumer Advocacy & Civil Rights
+        <a href="https://saverparty.xyz">Saver Party</a>, Consumer Advocacy &
+        Civil Rights
       </div>
     </div>
   );
