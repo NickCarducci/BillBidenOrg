@@ -1,6 +1,8 @@
 import "./styles.css";
 
 export default function App() {
+  var caps =
+    "STOP ASKING FOR CAPACITY WHEN YOU MEAN DEMAND CAPACITY WHICH IS PERFECTLY PRICE ELASTIC FOR ITS UTILITY PER EACH NEW CAPACITY, WE NEED  SUPPLY CAPACITY OR VOLUNTEER OR LESS FRUGAL PRODUCERS, NOT STEAL BY COUNTERFEIT-IN-CONTRACT";
   return (
     <div className="App">
       Bernie Sanders, you gohoul, you have no proof of what the majority of
@@ -108,6 +110,11 @@ export default function App() {
       <a href="https://froth.app/debt">adjudication</a>&nbsp;of rent-seeking
       without intent to use demand slavery settlement price elasticity
       prohibition/counterfeit-in-contract "forgiveness"
+      <br />
+      <br />
+      <span style={{ textDecoration: "underline" }}>efficiency</span>
+      <br />
+      {caps.toLowerCase()}
       <br />
       <br />
       <span style={{ textDecoration: "underline" }}>propoganda</span>
