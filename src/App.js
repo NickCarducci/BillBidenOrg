@@ -93,17 +93,19 @@ export default function App() {
         and adjunicate torts to repair unjustice; any tax or debt otherwise not
         only is involuntary slavery and a trust-building monopsony by the
         government, their contractors and their propograndising conspitators in
-        ratings and education, but debt benefits the bond-holders & interference
-        by tax or credit does nothing for the state of the world or the
-        utilities purchased but raise prices and circumvent Savers who have
+        ratings and education, but debt benefits the&nbsp;
+        <a href="https://nationalsecuritycasino.com">bond-holders</a>&nbsp;&
+        interference by tax or credit does nothing for the state of the world or
+        the utilities purchased but raise prices and circumvent Savers who have
         worked for what they earn. SaverParty.xyz represents the people that
         work or fund entrepreneurs on their customers' time, and do not borrow
-        or lend, and it is good for quality + -price. It is an obvious
-        red-herring to help Wall st; yet the Republicans do the same. Saver
-        party exists and represents most Americans. Why call your parties one of
-        the primary two; bipartisanship representing a minority of Americans -
-        and no civil or human rights - is a lie, if claiming it to be what
-        people want - or deserve.
+        or lend, and it is good for&nbsp;
+        <a href="https://micro-theory.com">quality + -price</a>. It is an
+        obvious red-herring to help Wall st; yet the Republicans do the same.
+        Saver party exists and represents most Americans. Why call your parties
+        one of the primary two; bipartisanship representing a minority of
+        Americans - and no civil or human rights - is a lie, if claiming it to
+        be what people want - or deserve.
       </span>
       <br />
       <br />
