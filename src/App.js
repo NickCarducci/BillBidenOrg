@@ -22,6 +22,19 @@ export default function App() {
       <a href="https://www.researchgate.net/project/Class-action-suit">
         Class action suit
       </a>
+      <br />
+      <br />
+      expand testing which are false positives for "gold standard" poly-chain
+      reaction. not only was insurance by gov forced upon us in 1937, it is
+      fraud - insurance generally is prisoners' dilemma duress of course and
+      cannot say choosing them saves money, even relatively.
+      <br />
+      <br />
+      PPP: Apply to get my equity back unless I am a laborer? We have no Civil
+      Rights Can't believe I didn't bring up the work-product for business,
+      instead of only monopsony of labor and the still malfeasant adjudication
+      of rent-seeking without intent to use demand slavery settlement price
+      elasticity prohibition/counterfeit-in-contract "forgiveness"
     </div>
   );
 }
