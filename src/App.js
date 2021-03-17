@@ -77,6 +77,32 @@ export default function App() {
       <br />
       &nbsp;you can beat someone up or detroy their supposed property as an
       equal-or-less reciprocation, or to suspend further compounding.
+      <br />
+      <br />
+      if you move [not advise w/o intent or neglect to deceive, unless under
+      non-state-tort(A5)] people you are at fault read 'state' as p2s not public
+      service role, see liability of product advertising... which should carry
+      same crime of intent/negligence non-state-tort...
+      <br />
+      <br />
+      <span style={{ fontSize: "12px" }}>
+        You can tax sales (of end-products, not equity) for free-rider-immutable
+        services, wealth for systematic reparations but really those are torts,
+        and adjunicate torts to repair unjustice; any tax or debt otherwise not
+        only is involuntary slavery and a trust-building monopsony by the
+        government, their contractors and their propograndising conspitators in
+        ratings and education, but debt benefits the bond-holders & interference
+        by tax or credit does nothing for the state of the world or the
+        utilities purchased but raise prices and circumvent Savers who have
+        worked for what they earn. SaverParty.xyz represents the people that
+        work or fund entrepreneurs on their customers' time, and do not borrow
+        or lend, and it is good for quality + -price. It is an obvious
+        red-herring to help Wall st; yet the Republicans do the same. Saver
+        party exists and represents most Americans. Why call your parties one of
+        the primary two; bipartisanship representing a minority of Americans -
+        and no civil or human rights - is a lie, if claiming it to be what
+        people want - or deserve.
+      </span>
     </div>
   );
 }
