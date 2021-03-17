@@ -24,17 +24,26 @@ export default function App() {
       </a>
       <br />
       <br />
-      expand testing which are false positives for "gold standard" poly-chain
-      reaction. not only was insurance by gov forced upon us in 1937, it is
-      fraud - insurance generally is prisoners' dilemma duress of course and
-      cannot say choosing them saves money, even relatively.
+      expand [<a href="https://humanharvest.info">covid</a>] testing which are
+      false positives for "<a href="https://froth.app">gold standard</a>"
+      poly-chain reaction. not only was insurance by&nbsp;
+      <a href="https://www.academia.edu/43983386/Can_a_socialist_or_communist_system_compete_effectively_in_a_global_economy">
+        gov forced upon us
+      </a>
+      &nbsp;in&nbsp;
+      <a href="https://www.dropbox.com/s/7kna7kxss5vxx96/SocialSecurityWarning.jpeg?dl=0">
+        1937
+      </a>
+      , it is fraud - insurance generally is prisoners' dilemma duress of course
+      and cannot say choosing them saves money, even relatively.
       <br />
       <br />
-      PPP: Apply to get my equity back unless I am a laborer? We have no Civil
-      Rights Can't believe I didn't bring up the work-product for business,
-      instead of only monopsony of labor and the still malfeasant adjudication
-      of rent-seeking without intent to use demand slavery settlement price
-      elasticity prohibition/counterfeit-in-contract "forgiveness"
+      PPP: Apply to get my equity back unless I am a laborer? We have no&nbsp;
+      <a href="https://saverparty.xyz">Civil Rights</a>.&nbsp;Can't believe I
+      didn't bring up the work-product for business, instead of only monopsony
+      of labor and the still malfeasant adjudication of rent-seeking without
+      intent to use demand slavery settlement price elasticity
+      prohibition/counterfeit-in-contract "forgiveness"
     </div>
   );
 }
