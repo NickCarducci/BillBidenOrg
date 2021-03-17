@@ -5,6 +5,13 @@ export default function App() {
     <div className="App">
       Compete with monopsony-pugs, unfairly?
       <br />
+      +$400k is just a money-grab, as is the stimulus to launder money to
+      bail-out "forgiveness"
+      <br />
+      we should cut off finance/rentier-colonialism and reenumerate, leave
+      government action to&nbsp;<a href="https://thumbprint.us">light</a>&nbsp;
+      <a href="https://vaults.biz">tech</a>
+      <br />
       <br />
       <div>
         "Show me what you need, I'll get those contractors down there" - Joe
