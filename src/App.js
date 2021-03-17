@@ -5,6 +5,18 @@ export default function App() {
     "STOP ASKING FOR CAPACITY WHEN YOU MEAN DEMAND CAPACITY WHICH IS PERFECTLY PRICE ELASTIC FOR ITS UTILITY PER EACH NEW CAPACITY, WE NEED  SUPPLY CAPACITY OR VOLUNTEER OR LESS FRUGAL PRODUCERS, NOT STEAL BY COUNTERFEIT-IN-CONTRACT";
   return (
     <div className="App">
+      March 17th, 2021
+      <br />
+      $1400 + $1400 dependent
+      <br />
+      <br />
+      158.5m housholds receive a payment" - Mark Levine
+      <br />
+      <br />
+      It is as I expected & warned Jan2018, they will print to make up and
+      enslave people thru institutions
+      <br />
+      <br />
       This guy says, "communists try to infiltrate the military." Dude-bro, you
       sell us out to China and you are funded as communists fund things
       <br />
