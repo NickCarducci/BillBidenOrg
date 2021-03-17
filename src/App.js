@@ -60,15 +60,16 @@ export default function App() {
       <br />
       <br />
       So the news is talking about Long making the kill for sex addiction and
-      racism for the lockdowns? I experience racism bc austrian economists are
-      nazis... "hate crimes includes sex?" Wolf Blitzer likes to point out (what
-      is even the punitive change?). ANYTHING WITH INTENT YES HE CLAIMED IT
-      UNLESS THERE IS DOUBT IT IS FAKE? you guys are so stupid! "Certainly has a
-      lot going on, his family would testify," Wolf correlates. Like the 3-4k
-      witnesses you ignore for citing election crimes or that only 1000
-      individuals crossed the antartic? You need to be consistent in your class-
-      or lifestyle-based assumptions. I have an instable-mind record but because
-      I am smarter in economics and I am reasonably pissed for the institutional
+      racism for the lockdowns? I experience racism bc&nbsp;
+      <a href="https://saverparty.xyz">austrian economists</a>&nbsp;are nazis...
+      "hate crimes includes sex?" Wolf Blitzer likes to point out (what is even
+      the punitive change?). ANYTHING WITH INTENT YES HE CLAIMED IT UNLESS THERE
+      IS DOUBT IT IS FAKE? you guys are so stupid! "Certainly has a lot going
+      on, his family would testify," Wolf correlates. Like the 3-4k witnesses
+      you ignore for citing election crimes or that only 1000 individuals
+      crossed the antartic? You need to be consistent in your class- or
+      lifestyle-based assumptions. I have an instable-mind record but because I
+      am smarter in economics and I am reasonably pissed for the institutional
       corruption evident at the univerisity in their economics department to
       which I went with the intention of investigating Market History, namely
       because my&nbsp;
