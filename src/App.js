@@ -66,9 +66,25 @@ export default function App() {
       that is one way to describe dispondence
       <br />
       <br />
-      <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1236580/">kill</a>
+      <a
+        style={{
+          padding: "10px",
+          backgroundColor: "rgb(30,30,30)",
+          color: "white"
+        }}
+        href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1236580/"
+      >
+        kill
+      </a>
       &nbsp;
-      <a href="https://www.the-scientist.com/news-opinion/nih-cancels-funding-for-bat-coronavirus-research-project-67486">
+      <a
+        style={{
+          padding: "10px",
+          backgroundColor: "rgb(30,30,30)",
+          color: "white"
+        }}
+        href="https://www.the-scientist.com/news-opinion/nih-cancels-funding-for-bat-coronavirus-research-project-67486"
+      >
         yourself
       </a>
       <br />
@@ -114,7 +130,15 @@ export default function App() {
         equityutilitymoney split Joe and Donald tweaked out of my
         equityutilitymoney
       </div>
-      <a href="https://www.researchgate.net/project/Class-action-suit">
+      <br />
+      <a
+        style={{
+          padding: "10px",
+          backgroundColor: "rgb(30,30,30)",
+          color: "white"
+        }}
+        href="https://www.researchgate.net/project/Class-action-suit"
+      >
         Class action suit
       </a>
       <br />
