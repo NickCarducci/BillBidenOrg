@@ -34,7 +34,10 @@ export default function App() {
         1937
       </a>
       , it is fraud - insurance generally is prisoners' dilemma duress of course
-      and cannot say choosing them saves money, even relatively.
+      and cannot say choosing them saves money, even relatively. don't call that
+      benefit & don't call redistribution of equityutilitymoney stimulus.
+      invoices are theft, pooling demand capacity is abject harm given&nbsp;
+      <a href="https://micro-theory.com">price-elasticity laws</a>
       <br />
       <br />
       <span style={{ textDecoration: "underline" }}>monopsony</span>
