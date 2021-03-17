@@ -3,6 +3,18 @@ import "./styles.css";
 export default function App() {
   return (
     <div className="App">
+      <a href="https://vianickcarducci.medium.com/gdp-the-big-lie-b1a0868785f4">
+        man of your own thought, accosting you’re fucking customers you loiter
+      </a>
+      <br />
+      <br />
+      kill yourself
+      <br />
+      <br />
+      The left always want to correlate lifestyle to convict by association
+      unless it is killed by cop-knee at the same time
+      <br />
+      <br />
       Compete with monopsony-pugs, unfairly?
       <br />
       +$400k is just a money-grab, as is the stimulus to launder money to
