@@ -6,23 +6,6 @@ export default function App() {
       Compete with monopsony-pugs, unfairly?
       <br />
       <br />
-      Fleeing is not resisting, by definition
-      <br />
-      <br />
-      Lying under oath and under duress (ignoring A4, A5) means the only penalty
-      can be for the crime
-      <br />
-      <br />
-      <div>
-        <a href="https://www.academia.edu/43983364/Review_Capitalism_in_the_21st_Century">
-          revolution
-        </a>
-        &nbsp;is self-defense while&nbsp;
-        <a href="https://vaults.biz">vault.biz</a>
-        &nbsp;exists
-      </div>
-      &nbsp;you can beat someone up or detroy their supposed property as an
-      equal-or-less reciprocation, or to suspend further compounding.
       <div>
         "Show me what you need, I'll get those contractors down there" - Joe
         Biden. I bought this domain, for a year, with the partial
@@ -33,6 +16,12 @@ export default function App() {
         Class action suit
       </a>
       <br />
+      <br />
+      <b>rentier-colonialism/insurance</b>
+      <br />
+      <span style={{ textDecoration: "underline" }}>
+        demand-slavery, duress, inelasticity, unsettled
+      </span>
       <br />
       expand [<a href="https://humanharvest.info">covid</a>] testing which are
       false positives for "<a href="https://froth.app">gold standard</a>"
@@ -48,6 +37,8 @@ export default function App() {
       and cannot say choosing them saves money, even relatively.
       <br />
       <br />
+      <span style={{ textDecoration: "underline" }}>monopsony</span>
+      <br />
       PPP: Apply to get my equity back unless I am a laborer? We have no&nbsp;
       <a href="https://saverparty.xyz">Civil Rights</a>.&nbsp;Can't believe I
       didn't bring up the work-product for business, instead of only monopsony
@@ -55,6 +46,8 @@ export default function App() {
       intent to use demand slavery settlement price elasticity
       prohibition/counterfeit-in-contract "forgiveness"
       <br />
+      <br />
+      <span style={{ textDecoration: "underline" }}>propoganda</span>
       <br />
       issues are either trading-assets, -bondage/-people/-supplyChain/-demand,
       loitering or inclusion... which to me none are debatable lmao. I am a
@@ -64,6 +57,25 @@ export default function App() {
       disparity to cash:debt of prices or yearEnd cash holdings per family... or
       something between those as policy for my candidacy thru saverparty.xyz in
       nj us senate
+      <br />
+      <br />
+      <span style={{ textDecoration: "underline" }}>self-defense</span>
+      <br />
+      <br />
+      Fleeing is not resisting, by definition
+      <br />
+      Lying under oath and under duress (ignoring A4, A5) means the only penalty
+      can be for the crime
+      <br />
+      <a href="https://www.academia.edu/43983364/Review_Capitalism_in_the_21st_Century">
+        revolution
+      </a>
+      &nbsp;is self-defense while&nbsp;
+      <a href="https://vaults.biz">vault.biz</a>
+      &nbsp;exists
+      <br />
+      &nbsp;you can beat someone up or detroy their supposed property as an
+      equal-or-less reciprocation, or to suspend further compounding.
     </div>
   );
 }
