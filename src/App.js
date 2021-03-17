@@ -19,7 +19,9 @@ export default function App() {
       that is one way to describe dispondence
       <br />
       <br />
-      kill yourself
+      <a href="https://www.the-scientist.com/news-opinion/nih-cancels-funding-for-bat-coronavirus-research-project-67486">
+        kill yourself
+      </a>
       <br />
       <br />
       The left always want to correlate lifestyle
