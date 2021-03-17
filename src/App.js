@@ -105,6 +105,10 @@ export default function App() {
         and no civil or human rights - is a lie, if claiming it to be what
         people want - or deserve.
       </span>
+      <br />
+      <br />
+      cops can hide and be undercover/brandish, but not lie to get confession to
+      incriminate as only form of evidence
     </div>
   );
 }
