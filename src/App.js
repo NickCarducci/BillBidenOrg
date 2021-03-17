@@ -5,6 +5,27 @@ export default function App() {
     "STOP ASKING FOR CAPACITY WHEN YOU MEAN DEMAND CAPACITY WHICH IS PERFECTLY PRICE ELASTIC FOR ITS UTILITY PER EACH NEW CAPACITY, WE NEED  SUPPLY CAPACITY OR VOLUNTEER OR LESS FRUGAL PRODUCERS, NOT STEAL BY COUNTERFEIT-IN-CONTRACT";
   return (
     <div className="App">
+      This guy says, "communists try to infiltrate the military." Dude-bro, you
+      sell us out to China and you are funded as communists fund things
+      <br />
+      <br />
+      <div
+        style={{
+          width: "300px",
+          position: "relative"
+        }}
+      >
+        <img
+          alt=""
+          style={{
+            width: "100%",
+            height: "auto"
+          }}
+          src="https://www.dl.dropboxusercontent.com/s/lkjq7h24te0f1xa/CommunistBryan.jpg?dl=0"
+        />
+      </div>{" "}
+      <br />
+      <br />
       Bernie Sanders, you gohoul, you have no proof of what the majority of
       people want, not even the Presidential election can get more than 60% of
       the voting age convicts
