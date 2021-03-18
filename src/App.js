@@ -10,7 +10,7 @@ export default function App() {
       <br />
       <div
         style={{
-          width: "300px",
+          width: "260px",
           position: "relative"
         }}
       >
@@ -228,6 +228,11 @@ export default function App() {
       <br />
       <span style={{ textDecoration: "underline" }}>self-defense</span>
       <br />
+      <br />
+      Law-abiding citizens destroy usurped tea -&nbsp;
+      <a href="https://thumbprint.us">
+        dominion shouldn't require a court order to release an audit
+      </a>
       <br />
       Fleeing is not resisting, by definition
       <br />
