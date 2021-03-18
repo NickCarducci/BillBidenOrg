@@ -124,7 +124,8 @@ export default function App() {
           color: "rgb(170,30,170)"
         }}
       >
-        Looks like some chapters are 501c3
+        Looks like some chapters are&nbsp;
+        <a href="https://thumbprint.us/about">501c3</a>
       </span>
       &nbsp;, so that's weird; get your story straight, Governor.
       <br />
