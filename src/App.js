@@ -163,6 +163,23 @@ export default function App() {
       calling them a business that is admittance that it is legal
       <br />
       <br />
+      <div
+        style={{
+          width: "200px",
+          position: "relative"
+        }}
+      >
+        <img
+          alt=""
+          style={{
+            width: "100%",
+            height: "auto"
+          }}
+          src="https://www.dl.dropboxusercontent.com/s/gukpmd68q0fmzxd/Screen%20Shot%202021-03-17%20at%2010.04.10%20PM.png?dl=0"
+        />
+      </div>{" "}
+      <br />
+      <br />
       Vincent Chin, mistaken for Japanese for Chinese harm to auto, killed by
       this guy for race in 2015 by judge who said can relate for having a bad
       day? That is not relevant to the crime, only finding cases of doubt is
