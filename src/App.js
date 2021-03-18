@@ -5,6 +5,14 @@ export default function App() {
     "STOP ASKING FOR CAPACITY WHEN YOU MEAN DEMAND CAPACITY WHICH IS PERFECTLY PRICE ELASTIC FOR ITS UTILITY PER EACH NEW CAPACITY, WE NEED  SUPPLY CAPACITY OR VOLUNTEER OR LESS FRUGAL PRODUCERS, NOT STEAL BY COUNTERFEIT-IN-CONTRACT";
   return (
     <div className="App">
+      <div
+        style={{
+          fontFamily: '"Pacifico", sans-serif'
+        }}
+      >
+        Mind Your Business
+      </div>
+      <br />
       NYC selling out to amazon is stupid if you can do it yourself, NYC
       <br />
       <br />
@@ -343,12 +351,6 @@ export default function App() {
       <br />
       <br />
       "Expensive car maitenance paid, so you don't have to" Mark Levin
-      <br />
-      "Off the hook for unexpected car-payments" - Mark Levin
-      <br />
-      your service is just making them pay in advance and with increased demand
-      capacity using prisoners' dilemma, no less. you need to be imprisoned,
-      Mark
       <br />
       <a href="https://www.researchgate.net/publication/346041766_The_FTC_has_responded_to_my_complaints_and_so_has_the_industry_Allstate_Progressive_Geico_all_say_they_save_you_money_by_switching_or_bundling_yet_neo-insurance_companies_like_CarShieldUSA_still_says_">
         That's a lie
