@@ -91,6 +91,8 @@ export default function App() {
         that is one way to describe dispondence
       </span>
       <br />
+      <a href="https://saverparty.xyz/war_on_poverty">War on Poverty</a>
+      <br />
       <br />
       <a
         style={{
