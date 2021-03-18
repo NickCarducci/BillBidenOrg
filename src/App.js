@@ -5,6 +5,47 @@ export default function App() {
     "STOP ASKING FOR CAPACITY WHEN YOU MEAN DEMAND CAPACITY WHICH IS PERFECTLY PRICE ELASTIC FOR ITS UTILITY PER EACH NEW CAPACITY, WE NEED  SUPPLY CAPACITY OR VOLUNTEER OR LESS FRUGAL PRODUCERS, NOT STEAL BY COUNTERFEIT-IN-CONTRACT";
   return (
     <div className="App">
+      you cannot claim someone can be violent for grievances without a
+      previously-violent offense
+      <br />
+      Law-abiding can be asinine... Gun sales should be registered but no shoot
+      first without intent + date + convicted of violence
+      <br />
+      <br />
+      People that died on Jan62021 had comorbidities
+      <br />
+      Traffic ticket, not bad - lemon
+      <br />
+      <br />
+      imo it only removes any liability protection of his advertisements,
+      otherwise his commentary/good products is a public service
+      <br />
+      <br />
+      but that should be... even handed... for any figure, regardless of what
+      Delaware thinks they can get away with in terms of Human Rights Abuse
+      <br />
+      <br />
+      defense of individual non-liability by association [of other individuals]
+      unless stated intent of self or acknowledgement of organizational intent
+      <br />
+      <br />
+      This FBI senate hearing official says they will be targeting anyone who
+      likes the oath keepers or proud boys, who I am seeking information of
+      their website stated intents rather than actions of its members. Looks
+      like some chapters are 501c3 , so that's weird; get your story straight,
+      Governor.
+      <br />
+      <br />
+      In connection with the 6th is all [FBI] cares about; not here to defend
+      city hall buildings. They steal for their own protection, our reps
+      (racially-motivated violent extremism) vs domestic terrorism vs academic
+      vs legal
+      <br />
+      <br />
+      don't touch my stuff. "The United States' decline" stated as intent of
+      people means nothing. He means bond holders/ slave owners
+      <br />
+      <br />
       "If you are in the U.S., illegal or otherwise, you will get healthcare" -
       &nbsp;<a href="https://bernardgoldberg.com/">Biden</a>
       <br />
