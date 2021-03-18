@@ -5,6 +5,10 @@ export default function App() {
     "STOP ASKING FOR CAPACITY WHEN YOU MEAN DEMAND CAPACITY WHICH IS PERFECTLY PRICE ELASTIC FOR ITS UTILITY PER EACH NEW CAPACITY, WE NEED  SUPPLY CAPACITY OR VOLUNTEER OR LESS FRUGAL PRODUCERS, NOT STEAL BY COUNTERFEIT-IN-CONTRACT";
   return (
     <div className="App">
+      "If you are in the U.S., illegal or otherwise, you will get healthcare" -
+      Biden
+      <br />
+      <br />
       Taxation without representation, really not taxed - how it is valued, not
       funded, but yes funded
       <br />
