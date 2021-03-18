@@ -5,6 +5,19 @@ export default function App() {
     "STOP ASKING FOR CAPACITY WHEN YOU MEAN DEMAND CAPACITY WHICH IS PERFECTLY PRICE ELASTIC FOR ITS UTILITY PER EACH NEW CAPACITY, WE NEED  SUPPLY CAPACITY OR VOLUNTEER OR LESS FRUGAL PRODUCERS, NOT STEAL BY COUNTERFEIT-IN-CONTRACT";
   return (
     <div className="App">
+      "Masks are required; unless eating or drinking"
+      <br />
+      That sign is so stupid. If it is required then you wouldn’t be able to
+      take it off to eat without getting cold antibodies
+      <br />
+      just another monopsony racket imo, like claiming third reich convinced the
+      smartest people of the 1930-40's joined for hair color, while the U.S. was
+      confiscating citizen-gold for war-bond or insurmountable and unreasonable
+      fine and jail, but they were commiting treason for selling bonds to those
+      we war with, to this day, and they call the valuation of the now 41:1
+      debt:currencyComponentOfM1 "savings" since Bill Clinton
+      <br />
+      <br />
       I did not have a right to take out a cash advance, but everyone else was
       <br />
       <br />
