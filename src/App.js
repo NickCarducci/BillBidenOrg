@@ -16,7 +16,8 @@ export default function App() {
         In economics, the goal is not to protect jobs, the being able to hit the
         ask, or minimizing costs alone. It is to minimize price:utility, output
         being individual-efficiency between supply and demand of
-        equityutilitymoney
+        equityutilitymoney... capitalism or growth? that is supply-side for
+        what? why target trade X prices
         <br />
         <div
           style={{
