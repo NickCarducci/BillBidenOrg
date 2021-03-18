@@ -47,7 +47,6 @@ export default function App() {
       <br />I have not heard of one "
       <span
         style={{
-          padding: "10px",
           color: "rgb(170,30,170)"
         }}
       >
@@ -57,7 +56,6 @@ export default function App() {
       crime and motive. Fox news and the&nbsp;
       <span
         style={{
-          padding: "10px",
           color: "rgb(170,30,170)"
         }}
       >
@@ -105,7 +103,6 @@ export default function App() {
       This&nbsp;
       <span
         style={{
-          padding: "10px",
           color: "rgb(170,30,170)"
         }}
       >
@@ -115,7 +112,6 @@ export default function App() {
       the&nbsp;
       <span
         style={{
-          padding: "10px",
           color: "rgb(170,30,170)"
         }}
       >
@@ -125,7 +121,6 @@ export default function App() {
       intents rather than actions of its members.&nbsp;
       <span
         style={{
-          padding: "10px",
           color: "rgb(170,30,170)"
         }}
       >
@@ -137,7 +132,6 @@ export default function App() {
       In connection with the 6th is all [
       <span
         style={{
-          padding: "10px",
           color: "rgb(170,30,170)"
         }}
       >
@@ -148,7 +142,6 @@ export default function App() {
       &nbsp;
       <span
         style={{
-          padding: "10px",
           color: "rgb(170,30,170)"
         }}
       >
@@ -356,7 +349,6 @@ export default function App() {
       <br />
       <div
         style={{
-          padding: "10px",
           color: "rgb(170,30,170)"
         }}
       >
