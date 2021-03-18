@@ -18,7 +18,8 @@ export default function App() {
       <br />
       <br />
       imo it only removes any liability protection of his advertisements,
-      otherwise his commentary/good products is a public service
+      otherwise his commentary/good products is a public service (but what is
+      with misliability at all)
       <br />
       <br />
       but that should be... even handed... for any figure, regardless of what
