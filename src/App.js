@@ -169,7 +169,8 @@ export default function App() {
         Taxation without representation; but it is really not taxed - how it is
         valued, price-fixed and funded. tax-payers don't pay the fraudulent
         purchases ("don't let perfection be the enemy of the good" in regards to
-        4x price increase of mandatory grafting), savers/competition do
+        4x price increase of mandatory grafting), savers/competition do. I
+        price-fix that
       </div>
       <br />
       <br />
