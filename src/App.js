@@ -220,8 +220,8 @@ export default function App() {
       was too! they didn't shuffle all of them, I know.
       <br />
       <br />
-      So the news is talking about Long making the kill for sex addiction and
-      racism for the lockdowns?&nbsp;
+      So the news is talking about Long making the kill for sex addiction ({">"}
+      1/week) and racism for the lockdowns?&nbsp;
       <span style={{ color: "green" }}>
         I experience racism bc&nbsp;
         <a href="https://saverparty.xyz">austrian economists</a>&nbsp;are&nbsp;
@@ -258,6 +258,10 @@ export default function App() {
       day? That is not relevant to the crime, only finding cases of doubt is
       relevant to consider but wreckless driving should never be conflated with
       wreckless homicide. what kind of producers...
+      <br />
+      <br />
+      Not enough time to check if there was a wreck less driving charge to buy a
+      gun, the FBI says
       <br />
       <br />
       "hate crimes includes sex?" Wolf Blitzer likes to point out (what is even
