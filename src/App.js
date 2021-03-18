@@ -154,6 +154,11 @@ export default function App() {
         </a>
         ...
       </span>
+      <br />
+      How can Chris Cuomo say, "he doesn't want to indite these businesses." By
+      calling them a business that is admittance that it is legal
+      <br />
+      <br />
       "hate crimes includes sex?" Wolf Blitzer likes to point out (what is even
       the punitive change?). ANYTHING WITH INTENT YES HE CLAIMED IT UNLESS THERE
       IS DOUBT IT IS FAKE? you guys are so stupid! "Certainly has a lot going
