@@ -5,6 +5,23 @@ export default function App() {
     "STOP ASKING FOR CAPACITY WHEN YOU MEAN DEMAND CAPACITY WHICH IS PERFECTLY PRICE ELASTIC FOR ITS UTILITY PER EACH NEW CAPACITY, WE NEED  SUPPLY CAPACITY OR VOLUNTEER OR LESS FRUGAL PRODUCERS, NOT STEAL BY COUNTERFEIT-IN-CONTRACT";
   return (
     <div className="App">
+      <div
+        style={{
+          width: "360px",
+          position: "relative"
+        }}
+      >
+        <img
+          alt=""
+          style={{
+            width: "100%",
+            height: "auto"
+          }}
+          src="https://www.dl.dropboxusercontent.com/s/2qm9gjl8ntbjwij/Screen%20Shot%202021-03-18%20at%205.52.43%20PM.png?dl=0"
+        />
+      </div>{" "}
+      <br />
+      <br />
       TO CERTIFY THE ELECTION IS TO APPROVE OF THE RESULTS FROM THE
       SUBCONTRACTOR, THE ALLEDGED LOSER IS ALLOWED TO BE CONTENTIOUS without a
       distributed recording of a live instance
