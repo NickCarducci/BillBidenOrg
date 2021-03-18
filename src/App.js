@@ -5,6 +5,14 @@ export default function App() {
     "STOP ASKING FOR CAPACITY WHEN YOU MEAN DEMAND CAPACITY WHICH IS PERFECTLY PRICE ELASTIC FOR ITS UTILITY PER EACH NEW CAPACITY, WE NEED  SUPPLY CAPACITY OR VOLUNTEER OR LESS FRUGAL PRODUCERS, NOT STEAL BY COUNTERFEIT-IN-CONTRACT";
   return (
     <div className="App">
+      Rita Cosby, cunt you cannot say 57% of New Yorkers want Andrew to stay in
+      from a poll of sample size&nbsp;
+      <a href="https://scri.siena.edu/2021/03/15/voters-say-cuomo-should-not-resign-50-35/">
+        875
+      </a>
+      &nbsp;not of all New Yorkers
+      <br />
+      <br />
       I have not heard of one "conspiracy theory promoting violence," conspiracy
       theories cannot promote any action they are descriptive of a crime and
       motive. Fox news and the FBI are idiots
