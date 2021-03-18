@@ -9,7 +9,11 @@ export default function App() {
       previously-violent offense
       <br />
       Law-abiding can be asinine... Gun sales should be registered but no shoot
-      first without intent + date + convicted of violence
+      first without intent + date +&nbsp;
+      <a href="https://vianickcarducci.medium.com/optimal-security-for-webapps-dd2a65c2418c">
+        convicted
+      </a>
+      &nbsp;of violence
       <br />
       <br />
       People that died on Jan62021 had comorbidities
