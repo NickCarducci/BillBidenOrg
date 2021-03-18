@@ -406,7 +406,7 @@ export default function App() {
       <br />
       Compete with monopsony-pugs, unfairly?
       <br />
-      +$400k is just a money-grab, as is the stimulus to launder money to
+      +$400k/gains is just a money-grab, as is the stimulus to launder money to
       bail-out "forgiveness"
       <br />
       <div
