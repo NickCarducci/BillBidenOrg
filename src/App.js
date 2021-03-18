@@ -333,6 +333,7 @@ export default function App() {
       <a
         style={{
           padding: "10px",
+          lineHeight: "3",
           backgroundColor: "rgb(190,60,160)",
           color: "white"
         }}
