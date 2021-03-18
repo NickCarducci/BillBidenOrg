@@ -163,6 +163,13 @@ export default function App() {
       calling them a business that is admittance that it is legal
       <br />
       <br />
+      Vincent Chin, mistaken for Japanese for Chinese harm to auto, killed by
+      this guy for race in 2015 by judge who said can relate for having a bad
+      day? That is not relevant to the crime, only finding cases of doubt is
+      relevant to consider but wreckless driving should never be conflated with
+      wreckless homicide. what kind of producers...
+      <br />
+      <br />
       "hate crimes includes sex?" Wolf Blitzer likes to point out (what is even
       the punitive change?). ANYTHING WITH INTENT YES HE CLAIMED IT UNLESS THERE
       IS DOUBT IT IS FAKE? you guys are so stupid! "Certainly has a lot going
