@@ -160,7 +160,8 @@ export default function App() {
       </span>
       <br />
       How can Chris Cuomo say, "he doesn't want to indite these businesses." By
-      calling them a business that is admittance that it is legal
+      calling them a business that is admittance that it is&nbsp;
+      <a href="https://www.google.com/search?q=divorce+lawyer+near+me">legal</a>
       <br />
       <br />
       <div
