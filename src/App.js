@@ -121,8 +121,12 @@ export default function App() {
       <br />
       <br />
       So the news is talking about Long making the kill for sex addiction and
-      racism for the lockdowns? I experience racism bc&nbsp;
-      <a href="https://saverparty.xyz">austrian economists</a>&nbsp;are nazis...
+      racism for the lockdowns?&nbsp;
+      <span style={{ color: "green" }}>
+        I experience racism bc&nbsp;
+        <a href="https://saverparty.xyz">austrian economists</a>&nbsp;are
+        nazis...
+      </span>
       "hate crimes includes sex?" Wolf Blitzer likes to point out (what is even
       the punitive change?). ANYTHING WITH INTENT YES HE CLAIMED IT UNLESS THERE
       IS DOUBT IT IS FAKE? you guys are so stupid! "Certainly has a lot going
