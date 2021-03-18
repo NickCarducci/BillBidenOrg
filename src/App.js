@@ -364,7 +364,19 @@ export default function App() {
         </a>
         <br />
         <br />
-        "Expensive car maitenance paid, so you don't have to" Mark Levin
+        <span style={{ color: "green" }}>
+          "Expensive car maitenance paid, so you don't have to" Mark Levin
+          <br />
+          "You don't have to be on the hook" Mark Levin
+        </span>
+        <br />
+        bastard, you are just having people pay up front, and of prisoners'
+        dilemma duress of keeping up with the demand-coagulation and capacity
+        beyond the individual frugality of the curves that make up marginal
+        supply, which agreeably is theft and to be due by the&nbsp;
+        <span style={{ color: "green" }}>
+          most frugal price-setting producer and the price-taking consumer
+        </span>
         <br />
         <a href="https://www.researchgate.net/publication/346041766_The_FTC_has_responded_to_my_complaints_and_so_has_the_industry_Allstate_Progressive_Geico_all_say_they_save_you_money_by_switching_or_bundling_yet_neo-insurance_companies_like_CarShieldUSA_still_says_">
           That's a lie
