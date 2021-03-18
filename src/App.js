@@ -36,7 +36,11 @@ export default function App() {
       <a href="https://scri.siena.edu/2021/03/15/voters-say-cuomo-should-not-resign-50-35/">
         875
       </a>
-      &nbsp;not of all New Yorkers
+      &nbsp;not of all New Yorkers... sample random imagine the picture you are
+      getting under 50%, imagine how much worse if it is not&nbsp;
+      <a href="https://open.spotify.com/episode/4MpKkdFR4jD33UX6xO2Lb3?si=Nm26wDXPTQewbGYzV-OqeQ">
+        shuffled
+      </a>
       <br />
       <br />
       Biden only thinks the state will prosecute Cuomo if he raped somebody, not
