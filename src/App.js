@@ -5,6 +5,11 @@ export default function App() {
     "STOP ASKING FOR CAPACITY WHEN YOU MEAN DEMAND CAPACITY WHICH IS PERFECTLY PRICE ELASTIC FOR ITS UTILITY PER EACH NEW CAPACITY, WE NEED  SUPPLY CAPACITY OR VOLUNTEER OR LESS FRUGAL PRODUCERS, NOT STEAL BY COUNTERFEIT-IN-CONTRACT";
   return (
     <div className="App">
+      In economics, the goal is not to protect jobs, the being able to hit the
+      ask, or minimizing costs alone. It is to minimize price:utility, output
+      being individual-efficiency between supply and demand of
+      equityutilitymoney
+      <br />
       <div
         style={{
           fontFamily: '"Pacifico", sans-serif'
