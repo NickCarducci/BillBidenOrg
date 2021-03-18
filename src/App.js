@@ -8,9 +8,33 @@ export default function App() {
       Laws must not matter anymore; the government is a danger to us all
       <br />
       <br />
-      <a href="https://bond.farm">Conspiracy theories</a>&nbsp;are detective
-      work. Phil Mudd, another person who mistakes bond values for the country
+      <div
+        style={{
+          width: "300px",
+          position: "relative"
+        }}
+      >
+        <img
+          alt=""
+          style={{
+            width: "100%",
+            height: "auto"
+          }}
+          src="https://www.dl.dropboxusercontent.com/s/5y0pqlluy6n5kzw/bondfarm.png?dl=0"
+        />
+      </div>
       <br />
+      <a href="https://bond.farm">Conspiracy theories</a>&nbsp;are detective
+      work.
+      <div
+        style={{
+          padding: "10px",
+          backgroundColor: "rgb(30,30,30)",
+          color: "white"
+        }}
+      >
+        Phil Mudd, another person who mistakes bond values for the country
+      </div>
       <br />
       "March 17th, 2021
       <br />
