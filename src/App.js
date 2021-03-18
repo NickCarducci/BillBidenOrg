@@ -16,11 +16,13 @@ export default function App() {
         You old people are so stupid
         <br />
         <br />
-        In economics, the goal is not to protect jobs, the being able to hit the
-        ask, or minimizing costs alone. It is to minimize price:utility, output
-        being individual-efficiency between supply and demand of
-        equityutilitymoney... capitalism or growth? that is supply-side for
-        what? why target trade X prices
+        <span style={{ color: "blue" }}>
+          In economics, the goal is not to protect jobs, the being able to hit
+          the ask, or minimizing costs alone. It is to minimize price:utility,
+          output being individual-efficiency between supply and demand of
+          equityutilitymoney... capitalism or growth? that is supply-side for
+          what? why target trade X prices
+        </span>
         <br />
         <div
           style={{
@@ -375,12 +377,15 @@ export default function App() {
           "You don't have to be on the hook" Mark Levin
         </span>
         <br />
-        bastard, you are just having people pay up front, and of prisoners'
-        dilemma duress of keeping up with the demand-coagulation and capacity
-        beyond the individual frugality of the curves that make up marginal
-        supply, which agreeably is theft and to be due by the&nbsp;
-        <span style={{ color: "green" }}>
-          most frugal price-setting producer and the price-taking consumer
+        <span style={{ color: "blue" }}>
+          you are just having people pay up front for price-variable invoices
+          and with bloated capacity beyond the individual frugality of the
+          supple/demand curves, which agreeably is theft when it is taken as a
+          third-party dead-weight in individual-efficiency or
+          equityutilitymoney, not to be borne by the&nbsp;
+          <span style={{ color: "green" }}>
+            most frugal price-setting producer and the price-taking consumer
+          </span>
         </span>
         <br />
         <a href="https://www.researchgate.net/publication/346041766_The_FTC_has_responded_to_my_complaints_and_so_has_the_industry_Allstate_Progressive_Geico_all_say_they_save_you_money_by_switching_or_bundling_yet_neo-insurance_companies_like_CarShieldUSA_still_says_">
