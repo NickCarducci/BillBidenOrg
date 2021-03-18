@@ -5,6 +5,11 @@ export default function App() {
     "STOP ASKING FOR CAPACITY WHEN YOU MEAN DEMAND CAPACITY WHICH IS PERFECTLY PRICE ELASTIC FOR ITS UTILITY PER EACH NEW CAPACITY, WE NEED  SUPPLY CAPACITY OR VOLUNTEER OR LESS FRUGAL PRODUCERS, NOT STEAL BY COUNTERFEIT-IN-CONTRACT";
   return (
     <div className="App">
+      I have not heard of one "conspiracy theory promoting violence," conspiracy
+      theories cannot promote any action they are descriptive of a crime and
+      motive. Fox news and the FBI are idiots
+      <br />
+      <br />
       Attempted insurrection, power is digital those people know that, by
       disturbing a vote? Government is evil, and people that think that aren't
       inherently violent. The bus with bathroom rally ppl don't trust Dominion
