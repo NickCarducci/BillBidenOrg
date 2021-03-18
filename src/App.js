@@ -23,7 +23,7 @@ export default function App() {
       <br />
       imo it only removes any liability protection of his advertisements,
       otherwise his commentary/good products is a public service (but what is
-      with misliability at all)
+      with misliability at all, regardless of Delaware)
       <br />
       <br />
       but that should be... even handed... for any figure, regardless of what
