@@ -561,6 +561,8 @@ export default function App() {
       <br />
       <div
         style={{
+          borderTop: "1px solid",
+          borderLeft: "1px solid",
           backgroundColor: "rgb(255,255,255)",
           position: "fixed",
           bottom: "0px",
@@ -582,8 +584,8 @@ export default function App() {
             src="https://www.dl.dropboxusercontent.com/s/oi43wpcc0h9phcz/saverAcorn%20%281%29.png?dl=0"
           />
         </span>
-        <a href="https://saverparty.xyz">Saver Party</a>, Equity Advocacy &
-        Civil Rights
+        <a href="https://saverparty.xyz">Saver Party</a>, Monopsony Prosecution,
+        Equity Advocacy & Civil Rights
       </div>
     </div>
   );
