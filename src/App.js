@@ -5,6 +5,9 @@ export default function App() {
     "STOP ASKING FOR CAPACITY WHEN YOU MEAN DEMAND CAPACITY WHICH IS PERFECTLY PRICE ELASTIC FOR ITS UTILITY PER EACH NEW CAPACITY, WE NEED  SUPPLY CAPACITY OR VOLUNTEER OR LESS FRUGAL PRODUCERS, NOT STEAL BY COUNTERFEIT-IN-CONTRACT";
   return (
     <div className="App">
+      I did not have a right to take out a cash advance, but everyone else was
+      <br />
+      <br />
       IRS, SSA, and all other conflicted interested advertisers of
       jurispridence, I will decide when I work and am not at your beck-and-call.
       My VM machine instructs you to leave a message to get in touch with me. I
