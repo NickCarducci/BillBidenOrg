@@ -124,8 +124,11 @@ export default function App() {
       racism for the lockdowns?&nbsp;
       <span style={{ color: "green" }}>
         I experience racism bc&nbsp;
-        <a href="https://saverparty.xyz">austrian economists</a>&nbsp;are
-        nazis...
+        <a href="https://saverparty.xyz">austrian economists</a>&nbsp;are&nbsp;
+        <a href="https://voxeu.org/article/financial-crisis-and-right-wing-extremism-germany-1931-33">
+          nazis
+        </a>
+        ...
       </span>
       "hate crimes includes sex?" Wolf Blitzer likes to point out (what is even
       the punitive change?). ANYTHING WITH INTENT YES HE CLAIMED IT UNLESS THERE
