@@ -5,6 +5,32 @@ export default function App() {
     "STOP ASKING FOR CAPACITY WHEN YOU MEAN DEMAND CAPACITY WHICH IS PERFECTLY PRICE ELASTIC FOR ITS UTILITY PER EACH NEW CAPACITY, WE NEED  SUPPLY CAPACITY OR VOLUNTEER OR LESS FRUGAL PRODUCERS, NOT STEAL BY COUNTERFEIT-IN-CONTRACT";
   return (
     <div className="App">
+      Warp speed made no scientific advancement, only regulation and the dutty
+      to warn thwarted
+      <br />
+      <br />
+      <div
+        style={{
+          width: "260px",
+          position: "relative"
+        }}
+      >
+        <img
+          alt=""
+          style={{
+            width: "100%",
+            height: "auto"
+          }}
+          src="https://www.dl.dropboxusercontent.com/s/rmu061xr7qmv8hc/MentallIllness.png?dl=0"
+        />
+      </div>{" "}
+      <br />
+      Tim Kaine claims him mental health issues is because of the same thing
+      that caused his cold antibodies. Might be the&nbsp;
+      <a href="https://moldmask.co">masks</a>&nbsp;or a correlation to something
+      else bub
+      <br />
+      <br />
       Rita Cosby, cunt you cannot say 57% of New Yorkers want Andrew to stay in
       from a poll of sample size&nbsp;
       <a href="https://scri.siena.edu/2021/03/15/voters-say-cuomo-should-not-resign-50-35/">
