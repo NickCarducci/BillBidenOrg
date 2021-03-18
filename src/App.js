@@ -79,15 +79,17 @@ export default function App() {
       </a>
       <br />
       <br />
-      ooo scholars… suicide is because of rentier-colonialism, not spiritual
-      moorings. debt:cash used to be&nbsp;
-      <a href="https://froth.app/debt">1:1</a>
-      <br />
-      as cash was asset, and debt was certificate
-      <br />
-      now is&nbsp;<a href="https://micro-theory.com">41:1</a>, and&nbsp;
-      <a href="https://vaults.biz">0:1</a>&nbsp;although if G-d is everything,
-      that is one way to describe dispondence
+      <span style={{ color: "green" }}>
+        ooo Chosen People scholars… suicide is because of rentier-colonialism,
+        not spiritual moorings. debt:cash used to be&nbsp;
+        <a href="https://froth.app/debt">1:1</a>
+        <br />
+        as cash was asset, and debt was certificate
+        <br />
+        now is&nbsp;<a href="https://micro-theory.com">41:1</a>, and&nbsp;
+        <a href="https://vaults.biz">0:1</a>&nbsp;although if G-d is everything,
+        that is one way to describe dispondence
+      </span>
       <br />
       <br />
       <a
