@@ -537,7 +537,22 @@ export default function App() {
           right: "0px"
         }}
       >
-        <a href="https://saverparty.xyz">Saver Party</a>, Consumer Advocacy &
+        <span
+          style={{
+            width: "20px",
+            position: "relative"
+          }}
+        >
+          <img
+            alt=""
+            style={{
+              width: "14px",
+              height: "auto"
+            }}
+            src="https://www.dl.dropboxusercontent.com/s/oi43wpcc0h9phcz/saverAcorn%20%281%29.png?dl=0"
+          />
+        </span>
+        <a href="https://saverparty.xyz">Saver Party</a>, Equity Advocacy &
         Civil Rights
       </div>
     </div>
