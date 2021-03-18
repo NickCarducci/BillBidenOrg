@@ -289,7 +289,14 @@ export default function App() {
       minarchist and adhere to microeconomics over macroeconomics. I’m trying to
       teach everyone economics micro-theory.com and bringing a class action suit
       against finance/insurance/rent-seeker colonialists and&nbsp;
-      <a href="https://vianickcarducci.medium.com">
+      <a
+        style={{
+          padding: "10px",
+          backgroundColor: "rgb(190,60,160)",
+          color: "white"
+        }}
+        href="https://vianickcarducci.medium.com"
+      >
         reenumerate wealth disparity to cash:debt of prices or yearEnd cash
         holdings per family... or something between
       </a>
