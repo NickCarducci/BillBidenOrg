@@ -20,6 +20,7 @@ export default function App() {
         <br />
         <div
           style={{
+            color: "green",
             fontFamily: '"Pacifico", sans-serif'
           }}
         >
