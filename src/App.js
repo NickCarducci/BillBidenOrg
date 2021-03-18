@@ -13,6 +13,9 @@ export default function App() {
           position: "relative"
         }}
       >
+        You old people are so stupid
+        <br />
+        <br />
         In economics, the goal is not to protect jobs, the being able to hit the
         ask, or minimizing costs alone. It is to minimize price:utility, output
         being individual-efficiency between supply and demand of
