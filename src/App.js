@@ -41,6 +41,8 @@ export default function App() {
       <a href="https://open.spotify.com/episode/4MpKkdFR4jD33UX6xO2Lb3?si=Nm26wDXPTQewbGYzV-OqeQ">
         shuffled
       </a>
+      . Are you saying most Africano people are suseptible to deadly
+      heart-pulmonary disease because not many report as healthy, CDC??
       <br />
       <br />
       Biden only thinks the state will prosecute Cuomo if he raped somebody, not
