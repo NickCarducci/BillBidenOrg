@@ -127,6 +127,13 @@ export default function App() {
         That's a lie
       </a>
       <br />
+      The economic system, according to M. Levin, includes not assets-alone, but
+      promises beyond reality on general income (human-securitized labor, paid
+      by time in some instances to boot), prisoners' dilemma duress is not
+      contractually void and insurance/rentier-colonialism is not demand slavery
+      or theft and according to microeconomic law it is when it is a public tax
+      in dead-weight in output or individual efficiency/ease
+      <br />
       <br />
       The left always want to correlate lifestyle
       free-rider-of-societal-inclusion to convict by association unless it is
