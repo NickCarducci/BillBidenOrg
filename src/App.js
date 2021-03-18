@@ -6,7 +6,7 @@ export default function App() {
   return (
     <div className="App">
       "If you are in the U.S., illegal or otherwise, you will get healthcare" -
-      Biden
+      &nbsp;<a href="https://bernardgoldberg.com/">Biden</a>
       <br />
       <br />
       Taxation without representation, really not taxed - how it is valued, not
@@ -185,8 +185,17 @@ export default function App() {
       +$400k is just a money-grab, as is the stimulus to launder money to
       bail-out "forgiveness"
       <br />
-      we should cut off finance/rentier-colonialism and reenumerate, leave
-      government action to&nbsp;<a href="https://thumbprint.us">light</a>&nbsp;
+      <div
+        style={{
+          padding: "10px",
+          backgroundColor: "rgb(190,60,160)",
+          color: "white"
+        }}
+      >
+        we should cut off finance/rentier-colonialism and reenumerate
+      </div>
+      , leave government action to&nbsp;
+      <a href="https://thumbprint.us">light</a>&nbsp;
       <a href="https://vaults.biz">tech</a>
       <br />
       <br />
