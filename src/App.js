@@ -81,8 +81,18 @@ export default function App() {
       &nbsp;<a href="https://bernardgoldberg.com/">Biden</a>
       <br />
       <br />
-      Taxation without representation, really not taxed - how it is valued, not
-      funded, but yes funded
+      <div
+        style={{
+          padding: "10px",
+          backgroundColor: "rgb(30,30,230)",
+          color: "white"
+        }}
+      >
+        Taxation without representation; but it is really not taxed - how it is
+        valued, price-fixed and funded. tax-payers don't pay the fraudulent
+        purchases ("don't let perfection be the enemy of the good" in regards to
+        4x price increase of mandatory grafting), savers/competition do
+      </div>
       <br />
       <br />
       Laws must not matter anymore; the government is a danger to us all
