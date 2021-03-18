@@ -140,6 +140,10 @@ export default function App() {
       killed by cop-knee at the same time
       <br />
       <br />
+      2 million/32m signatures to recall newsom, but surveys are wrong. I bet nj
+      was too! they didn't shuffle all of them, I know.
+      <br />
+      <br />
       So the news is talking about Long making the kill for sex addiction and
       racism for the lockdowns?&nbsp;
       <span style={{ color: "green" }}>
@@ -297,7 +301,7 @@ export default function App() {
         Saver party exists and represents most Americans. Why call your parties
         one of the primary two; bipartisanship representing a minority of
         Americans - and no civil or human rights - is a lie, if claiming it to
-        be what people want - or deserve.
+        be what people want - or deserve.∂
       </span>
       <br />
       <br />
