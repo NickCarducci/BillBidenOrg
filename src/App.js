@@ -5,9 +5,14 @@ export default function App() {
     "STOP ASKING FOR CAPACITY WHEN YOU MEAN DEMAND CAPACITY WHICH IS PERFECTLY PRICE ELASTIC FOR ITS UTILITY PER EACH NEW CAPACITY, WE NEED  SUPPLY CAPACITY OR VOLUNTEER OR LESS FRUGAL PRODUCERS, NOT STEAL BY COUNTERFEIT-IN-CONTRACT";
   return (
     <div className="App">
+      TO CERTIFY THE ELECTION IS TO APPROVE OF THE RESULTS FROM THE
+      SUBCONTRACTOR, THE ALLEDGED LOSER IS ALLOWED TO BE CONTENTIOUS without a
+      distributed recording of a live instance
+      <br />
+      <br />
       did rudy marry second cousin for tax deduction? No kids
-      <br/>
-      <br/>
+      <br />
+      <br />
       "Masks are required; unless eating or drinking"
       <br />
       That sign is so stupid. If it is required then you wouldn’t be able to
