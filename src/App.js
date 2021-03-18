@@ -13,6 +13,12 @@ export default function App() {
       &nbsp;not of all New Yorkers
       <br />
       <br />
+      Biden only thinks the state will prosecute Cuomo if he raped somebody, not
+      if he followed the NYC DOH orders (to not be able to deny entry into
+      nursing home by cold antibody test, only symptom), the whole of government
+      is liable then
+      <br />
+      <br />
       I have not heard of one "conspiracy theory promoting violence," conspiracy
       theories cannot promote any action they are descriptive of a crime and
       motive. Fox news and the FBI are idiots
