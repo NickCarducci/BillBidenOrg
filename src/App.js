@@ -5,8 +5,8 @@ export default function App() {
     "STOP ASKING FOR CAPACITY WHEN YOU MEAN DEMAND CAPACITY WHICH IS PERFECTLY PRICE ELASTIC FOR ITS UTILITY PER EACH NEW CAPACITY, WE NEED  SUPPLY CAPACITY OR VOLUNTEER OR LESS FRUGAL PRODUCERS, NOT STEAL BY COUNTERFEIT-IN-CONTRACT";
   return (
     <div className="App">
-      Warp speed made no scientific advancement, only regulation and the dutty
-      to warn thwarted
+      Warp speed made no scientific advancement, only regulation and the duty to
+      warn thwarted
       <br />
       <br />
       <div
@@ -44,10 +44,26 @@ export default function App() {
       nursing home by cold antibody test, only symptom), the whole of government
       is liable then
       <br />
-      <br />
-      I have not heard of one "conspiracy theory promoting violence," conspiracy
-      theories cannot promote any action they are descriptive of a crime and
-      motive. Fox news and the FBI are idiots
+      <br />I have not heard of one "
+      <span
+        style={{
+          padding: "10px",
+          color: "rgb(170,30,170)"
+        }}
+      >
+        conspiracy theory promoting violence
+      </span>
+      ," conspiracy theories cannot promote any action they are descriptive of a
+      crime and motive. Fox news and the&nbsp;
+      <span
+        style={{
+          padding: "10px",
+          color: "rgb(170,30,170)"
+        }}
+      >
+        FBI
+      </span>
+      &nbsp;are idiots
       <br />
       <br />
       Attempted insurrection, power is digital those people know that, by
@@ -86,17 +102,59 @@ export default function App() {
       unless stated intent of self or acknowledgement of organizational intent
       <br />
       <br />
-      This FBI senate hearing official says they will be targeting anyone who
-      likes the oath keepers or proud boys, who I am seeking information of
-      their website stated intents rather than actions of its members. Looks
-      like some chapters are 501c3 , so that's weird; get your story straight,
-      Governor.
+      This&nbsp;
+      <span
+        style={{
+          padding: "10px",
+          color: "rgb(170,30,170)"
+        }}
+      >
+        FBI
+      </span>
+      &nbsp;senate hearing official says they will be targeting anyone who likes
+      the&nbsp;
+      <span
+        style={{
+          padding: "10px",
+          color: "rgb(170,30,170)"
+        }}
+      >
+        oath keepers
+      </span>
+      &nbsp;or proud boys, who I am seeking information of their website stated
+      intents rather than actions of its members.&nbsp;
+      <span
+        style={{
+          padding: "10px",
+          color: "rgb(170,30,170)"
+        }}
+      >
+        Looks like some chapters are 501c3
+      </span>
+      &nbsp;, so that's weird; get your story straight, Governor.
       <br />
       <br />
-      In connection with the 6th is all [FBI] cares about; not here to defend
-      city hall buildings. They steal for their own protection, our reps
-      (racially-motivated violent extremism) vs domestic terrorism vs academic
-      vs legal
+      In connection with the 6th is all [
+      <span
+        style={{
+          padding: "10px",
+          color: "rgb(170,30,170)"
+        }}
+      >
+        FBI
+      </span>
+      ] cares about; not here to defend city hall buildings. They steal for
+      their own protection, our reps (racially-motivated violent extremism) vs
+      &nbsp;
+      <span
+        style={{
+          padding: "10px",
+          color: "rgb(170,30,170)"
+        }}
+      >
+        domestic
+      </span>
+      &nbsp;terrorism vs academic vs legal
       <br />
       <br />
       don't touch my stuff. "The United States' decline" stated as intent of
@@ -296,8 +354,15 @@ export default function App() {
       wreckless homicide. what kind of producers...
       <br />
       <br />
-      Not enough time to check if there was a wreck less driving charge to buy a
-      gun, the FBI says
+      <div
+        style={{
+          padding: "10px",
+          color: "rgb(170,30,170)"
+        }}
+      >
+        Not enough time to check if there was a wreck less driving charge to buy
+        a gun, the FBI says
+      </div>
       <br />
       <br />
       "hate crimes includes sex?" Wolf Blitzer likes to point out (what is even
