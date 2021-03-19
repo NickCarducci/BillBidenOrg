@@ -11,6 +11,22 @@ export default function App() {
           position: "relative"
         }}
       >
+        Lies from the govrnment happens more often than people are wrong about
+        their intuition, testimony or reporting
+        <br />
+        <br />
+        <div
+          style={{
+            color: "rgb(255,200,100)",
+            backgroundColor: "rgb(10,10,10)",
+            width: "calc(100% - 20px)",
+            padding: "10px"
+          }}
+        >
+          GIVE US YOUR GOLD FOR WAR BONDS OR be fined $147493 and/or 10 years in
+          prisoner 1932 1937 mandatory laundering of income to big whigs
+        </div>
+        <br />
         We are only&nbsp;
         <a href="https://en.wikipedia.org/wiki/James_Clapper">intertwined</a>
         &nbsp;with China by bonds
