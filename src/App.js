@@ -11,6 +11,9 @@ export default function App() {
           position: "relative"
         }}
       >
+        "Based on hard work, based on chances" - Kamala Harris
+        <br />
+        <br />
         "50% Rep 90% Dem 80% uh,
         <br />
         not going back to the old days
