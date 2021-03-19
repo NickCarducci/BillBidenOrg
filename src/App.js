@@ -593,8 +593,8 @@ export default function App() {
         nj was too! they didn't shuffle all of them, I know.
         <br />
         <br />
-        So the news is talking about Long making the kill for sex addiction (
-        {">"}
+        So the news is talking about (anti-vaxxer?) Long making the kill for sex
+        addiction ({">"}
         1/week) and racism for the lockdowns?&nbsp;
         <span style={{ color: "green" }}>
           I experience racism bc&nbsp;
