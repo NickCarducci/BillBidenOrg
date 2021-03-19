@@ -424,7 +424,7 @@ export default function App() {
         public tax in dead-weight in output or individual efficiency/ease
         <br />
         <br />
-        <span style={{ color: "rgb(200,20,255)" }}>
+        <span style={{ color: "rgb(220,60,115)" }}>
           The left always want to correlate lifestyle
           free-rider-of-societal-inclusion to convict by association unless it
           is killed by cop-knee at the same time
@@ -508,8 +508,10 @@ export default function App() {
         <br />
         Compete with monopsony-pugs, unfairly?
         <br />
-        +$400k/gains is just a money-grab, as is the stimulus to launder money
-        to bail-out "forgiveness"
+        <span style={{ color: "rgb(220,60,115)" }}>
+          +$400k/gains is just a money-grab, as is the stimulus to launder money
+          to bail-out "forgiveness"
+        </span>
         <br />
         <div
           style={{
@@ -641,7 +643,7 @@ export default function App() {
         <br />
         <br />
         <span style={{ fontSize: "12px" }}>
-          <span style={{ color: "rgb(200,20,255)" }}>
+          <span style={{ color: "rgb(220,60,115)" }}>
             You can tax sales (of end-products, not equity) for
             free-rider-immutable services
           </span>
