@@ -13,7 +13,7 @@ export default function App() {
       >
         "CDC staff aross the country are so thankful for all of your support"
         <br />
-        great, I have some tables that need bussing
+        great, I have some tables that need busing
         <br />
         "We are so happy that we were able to get vaccines in arms in an
         equitable way"
