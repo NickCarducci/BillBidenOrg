@@ -15,8 +15,8 @@ export default function App() {
         exists"&nbsp;
         <a href="https://en.wikipedia.org/wiki/David_Paterson">Paterson</a>,
         they are literally stating their criminal intent on the airwaves! If we
-        adjunicate counterfeit-in-contract, there is no pain to pay the
-        slave-holders
+        adjunicate counterfeit-in-contract, there is no pain to not pay the
+        slave-holders/give them what they've earned
         <br />
         <br />
         To stop foreign human rights atrocities worldwide, dismantle U.S.
