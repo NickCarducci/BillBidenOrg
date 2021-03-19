@@ -127,10 +127,11 @@ export default function App() {
         <span style={{ fontWeight: "bolder" }}>this is war</span>." -Biden
         <br />
         <br />
-        no you big Douche this is an abject racket/genocide. do no harm
-        assholes!
+        no you big Douche this is an abject&nbsp;
+        <a href="https://www.opensecrets.org/parties/">racket</a>/
+        <a href="https://froth.app">genocide</a>. do no harm assholes!
         <br />
-        "CDC staff aross the country are so thankful for all of your support"
+        "CDC staff across the country are so thankful for all of your support"
         <br />
         great, I have some tables that need busing
         <br />
