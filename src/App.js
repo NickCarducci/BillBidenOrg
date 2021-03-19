@@ -11,6 +11,12 @@ export default function App() {
           position: "relative"
         }}
       >
+        "All the billions to the states can certainly wipe out the DEFICIT that
+        exists"&nbsp;
+        <a href="https://en.wikipedia.org/wiki/David_Paterson">Paterson</a>,
+        they are literally stating their criminal intent on the airwaves!
+        <br />
+        <br />
         To stop foreign human rights atrocities worldwide, dismantle U.S.
         financial hedgemoney of the force of the use of the dollar and
         bond-slavery (41:1) counterfeit; forced by threat, duress, malfeasance &
