@@ -11,6 +11,17 @@ export default function App() {
           position: "relative"
         }}
       >
+        "50% Rep 90% Dem 80% uh,
+        <br />
+        not going back to the old days
+        <br />
+        changed things in the way to help people because you speak truth to
+        power, and that is the power. Thanks, entire generation learning to tell
+        the difference, follow the science and be honest about it, and that's
+        what we've all done!" He pulls the notes, "532572 dead. Stopped, gotta
+        slow it. More people that have died in wwiwwi 9/11 combined. you are the
+        navy, marines coast guard/. this is war." -Biden
+        <br />
         "CDC staff aross the country are so thankful for all of your support"
         <br />
         great, I have some tables that need busing
