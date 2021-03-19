@@ -314,12 +314,6 @@ export default function App() {
         . Are you saying most Africano people are suseptible to deadly
         heart-pulmonary disease because not many report as healthy, CDC??
         <br />
-        <br />
-        Biden only thinks the state will prosecute Cuomo if he raped somebody,
-        not if he followed the NYC DOH orders (to not be able to deny entry into
-        nursing home by cold antibody test, only symptom), the whole of
-        government is liable then
-        <br />
         <br />I have not heard of one "
         <span
           style={{
@@ -809,6 +803,17 @@ export default function App() {
         <br />
         &nbsp;you can beat someone up or detroy their supposed property as an
         equal-or-less reciprocation, or to suspend further compounding.
+        <br />
+        <br />
+        Biden only thinks the state will prosecute Cuomo if he raped somebody,
+        not if he followed the NYC DOH orders (to not be able to deny entry into
+        nursing home by cold antibody test, only symptom), the whole of
+        government is liable then
+        <br />
+        <br />
+        Cuomo should be impeached for being so stupid as to not allowing DOH to
+        prevent symptomatic people; Clinton should be impeached for removing
+        Glass-steagal.
         <br />
         <br />
         if you move [not advise w/o intent or neglect to deceive, unless under
