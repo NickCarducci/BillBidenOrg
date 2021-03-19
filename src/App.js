@@ -14,7 +14,9 @@ export default function App() {
         "All the billions to the states can certainly wipe out the DEFICIT that
         exists"&nbsp;
         <a href="https://en.wikipedia.org/wiki/David_Paterson">Paterson</a>,
-        they are literally stating their criminal intent on the airwaves!
+        they are literally stating their criminal intent on the airwaves! If we
+        adjunicate counterfeit-in-contract, there is no pain to pay the
+        slave-holders
         <br />
         <br />
         To stop foreign human rights atrocities worldwide, dismantle U.S.
