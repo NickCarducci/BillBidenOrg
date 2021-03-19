@@ -430,6 +430,8 @@ export default function App() {
           is killed by cop-knee at the same time
         </span>
         <br />
+        performance enhancement
+        <br />
         <br />
         2 million/32m signatures to recall newsom, but surveys are wrong. I bet
         nj was too! they didn't shuffle all of them, I know.
