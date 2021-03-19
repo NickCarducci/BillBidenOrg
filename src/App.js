@@ -11,6 +11,93 @@ export default function App() {
           position: "relative"
         }}
       >
+        In order to go to live events you need&nbsp;
+        <a href="http://humanharvest.info">"vaccine"/grafts</a>? That is
+        certifiably a&nbsp;
+        <div
+          style={{
+            backgroundColor: "rgb(255,100,100)",
+            width: "100%",
+            lineHeight: "5",
+            color: "white"
+          }}
+        >
+          WAR CRIME
+        </div>
+        <br />
+        <br />
+        Be an adult in the world. 2% of the population own 4100% + invoices
+        outstanding, accounts payable
+        <br />
+        <br />
+        YOU HAVE NO PROOF &nbsp;AND 1918 flu was hunger deaths from debt.
+        <div
+          style={{
+            display: "flex",
+            position: "relative"
+          }}
+        >
+          <div
+            style={{
+              width: "100%",
+              height: "100%",
+              zIndez: 1,
+              display: "flex",
+              flexWrap: "wrap",
+              position: "relative",
+              backgroundColor: "rgba(0,0,0,.7)"
+            }}
+          />
+          <div
+            style={{
+              width: "240px",
+              position: "relative"
+            }}
+          >
+            <img
+              style={{
+                width: "100%",
+                height: "auto"
+              }}
+              alt="always, not just sneeze https://pubmed.ncbi.nlm.nih.gov/17542834/"
+              src="https://www.dl.dropboxusercontent.com/s/yt1089433ca2ixp/measles.jpeg?dl=0"
+            />
+          </div>
+          <div
+            style={{
+              width: "240px",
+              position: "relative"
+            }}
+          >
+            <img
+              style={{
+                width: "100%",
+                height: "auto"
+              }}
+              alt="sneeze only"
+              src="https://www.dl.dropboxusercontent.com/s/bsr9axf89v6xbf0/sneezemeazles.jpeg?dl=0"
+            />
+          </div>
+          <div style={{ border: "1px solid" }}>
+            It is only&nbsp;
+            <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7264927/?fbclid=IwAR3YJK5KeMMHKlePeZN0lQb0cZz6tAb2SQZO9bKJl9jEE6aQIE08nbUgUNE">
+              proposed
+            </a>
+            &nbsp;as an unconfirmed solution to not be oncogenic by "culturing"
+            B-cells or creating a grandiose "universal B-cell"
+          </div>
+          <div style={{ border: "1px solid" }}>
+            All old people, check your liability gov! It’s like they want it
+            like that
+          </div>
+        </div>
+        <br />
+        <br />
+        What if the reporting of africano people as healthy is not as common as
+        euro checkups; no logistical evidence of pulmonary difference, only
+        empirical I believe
+        <br />
+        <br />
         "Based on hard work, based on chances" - Kamala Harris
         <br />
         <br />
@@ -23,7 +110,12 @@ export default function App() {
         the difference, follow the science and be honest about it, and that's
         what we've all done!" He pulls the notes, "532572 dead. Stopped, gotta
         slow it. More people that have died in wwiwwi 9/11 combined. you are the
-        navy, marines coast guard/. this is war." -Biden
+        navy, marines coast guard/.&nbsp;
+        <span style={{ fontWeight: "bolder" }}>this is war</span>." -Biden
+        <br />
+        <br />
+        no you big Douche this is an abject racket/genocide. do no harm
+        assholes!
         <br />
         "CDC staff aross the country are so thankful for all of your support"
         <br />
