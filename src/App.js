@@ -11,6 +11,11 @@ export default function App() {
           position: "relative"
         }}
       >
+        We are only&nbsp;
+        <a href="https://en.wikipedia.org/wiki/James_Clapper">intertwined</a>
+        &nbsp;with China by bonds
+        <br />
+        <br />
         in science, this is called a&nbsp;
         <a href="https://www.cdc.gov/mmwr/volumes/69/wr/mm6928e2.htm">
           false positive
