@@ -24,6 +24,9 @@ export default function App() {
         >
           WAR CRIME
         </div>
+        &nbsp;negative covid tests mean you don't have the antibodies now, just
+        use temperature! Sputum why is that closer to the source of infection
+        instead of back of throat. Makes no sense.
         <br />
         <br />
         Be an adult in the world. 2% of the population own 4100% + invoices
