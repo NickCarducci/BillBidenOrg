@@ -378,11 +378,14 @@ export default function App() {
         </span>
         <br />
         <span style={{ color: "blue" }}>
-          you are just having people pay up front for price-variable invoices
-          and with bloated capacity beyond the individual frugality of the
-          supple/demand curves, which agreeably is theft when it is taken as a
-          third-party dead-weight in individual-efficiency or
-          equityutilitymoney, not to be borne by the&nbsp;
+          you are just having people pay up front for price-variable (not
+          wholesale, gift certificates, classifieds not
+          front-running/scalping/intent to cannibalize instead of compete for
+          the favor of customers by being productive) invoices and with bloated
+          capacity beyond the individual frugality of the supple/demand curves,
+          which agreeably is theft when it is taken as a third-party dead-weight
+          in individual-efficiency or equityutilitymoney, not to be borne by
+          the&nbsp;
           <span style={{ color: "green" }}>
             most frugal price-setting producer and the price-taking consumer
           </span>
