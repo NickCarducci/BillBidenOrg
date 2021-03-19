@@ -11,6 +11,15 @@ export default function App() {
           position: "relative"
         }}
       >
+        To stop foreign human rights atrocities worldwide, dismantle U.S.
+        financial hedgemoney of the force of the use of the dollar and
+        bond-slavery (41:1) counterfeit; forced by threat, duress, malfeasance &
+        false advertisement. The funding that separates home builders from
+        dishwashers is having obligations instead of trading with our assets.
+        Share the table, with people that earn it from happy and well-buffed
+        customers
+        <br />
+        <br />
         If you plan on doing rasberries in somebody face, please use a&nbsp;
         <a href="https://moldmask.co">mask</a>
         <br />
