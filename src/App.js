@@ -15,7 +15,9 @@ export default function App() {
         <a href="https://www.cdc.gov/mmwr/volumes/69/wr/mm6928e2.htm">
           false positive
         </a>
-        , self-harmer you are liable for deaths while wearing&nbsp;
+        , self-harmer you are&nbsp;
+        <a href="https://committeetoprotect.org/meet-dr-rob/">liable</a>
+        &nbsp;for deaths while wearing&nbsp;
         <a href="https://moldmask.co">mask</a>
         <br />
         <br />
