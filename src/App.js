@@ -11,6 +11,21 @@ export default function App() {
           position: "relative"
         }}
       >
+        "CDC staff aross the country are so thankful for all of your support"
+        <br />
+        great, I have some tables that need bussing
+        <br />
+        "We are so happy that we were able to get vaccines in arms in an
+        equitable way"
+        <br />
+        So far, only 10% of the population, all old people. aren't you worried
+        that those will be considered FDA liability? The law doesn't permit
+        there being no fall guy. you have been warned by me of your criminality
+        in every way possible for the past 3 years!
+        <br />
+        <br />
+        <br />
+        <br />
         Sell those&nbsp;<a href="https://microtheory.com">bonds baby</a>!
         <br />
         <a href="https://www.usaid.gov/">
