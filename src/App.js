@@ -1,8 +1,6 @@
 import "./styles.css";
 
 export default function App() {
-  var caps =
-    "STOP ASKING FOR CAPACITY WHEN YOU MEAN DEMAND CAPACITY WHICH IS PERFECTLY PRICE ELASTIC FOR ITS UTILITY PER EACH NEW CAPACITY, WE NEED  SUPPLY CAPACITY OR VOLUNTEER OR LESS FRUGAL PRODUCERS, NOT STEAL BY COUNTERFEIT-IN-CONTRACT";
   return (
     <div className="App">
       <div
@@ -424,9 +422,11 @@ export default function App() {
         public tax in dead-weight in output or individual efficiency/ease
         <br />
         <br />
-        The left always want to correlate lifestyle
-        free-rider-of-societal-inclusion to convict by association unless it is
-        killed by cop-knee at the same time
+        <span style={{ color: "rgb(200,20,255)" }}>
+          The left always want to correlate lifestyle
+          free-rider-of-societal-inclusion to convict by association unless it
+          is killed by cop-knee at the same time
+        </span>
         <br />
         <br />
         2 million/32m signatures to recall newsom, but surveys are wrong. I bet
@@ -579,7 +579,10 @@ export default function App() {
         <br />
         <span style={{ textDecoration: "underline" }}>efficiency</span>
         <br />
-        {caps.toLowerCase()}
+        Stop asking for capacity when you mean demand capacity which is
+        perfectly price elastic for its utility per each new capacity, we need
+        supply capacity or volunteer or less frugal producers, not steal by
+        counterfeit-in-contract
         <br />
         <br />
         <span style={{ textDecoration: "underline" }}>propoganda</span>
@@ -636,13 +639,15 @@ export default function App() {
         <br />
         <br />
         <span style={{ fontSize: "12px" }}>
-          You can tax sales (of end-products, not equity) for
-          free-rider-immutable services, wealth for systematic reparations but
-          really those are torts, and adjunicate torts to repair unjustice; any
-          tax or debt otherwise not only is involuntary slavery and a
-          trust-building monopsony by the government, their contractors and
-          their propograndising conspitators in ratings and education, but debt
-          benefits the&nbsp;
+          <span style={{ color: "rgb(200,20,255)" }}>
+            You can tax sales (of end-products, not equity) for
+            free-rider-immutable services
+          </span>
+          , wealth for systematic reparations but really those are torts, and
+          adjunicate torts to repair unjustice; any tax or debt otherwise not
+          only is involuntary slavery and a trust-building monopsony by the
+          government, their contractors and their propograndising conspitators
+          in ratings and education, but debt benefits the&nbsp;
           <a href="https://nationalsecuritycasino.com">bond-holders</a>&nbsp;&
           interference by tax or credit does nothing for the state of the world
           or the utilities purchased but raise prices and circumvent Savers who
