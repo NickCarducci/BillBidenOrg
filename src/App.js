@@ -17,6 +17,16 @@ export default class App extends React.Component {
             position: "relative"
           }}
         >
+          <a href="https://pro.oc-oxfordcommunique.com/">
+            Bill O'reilly has a financial goober
+          </a>
+          &nbsp;on who says incorrectly, "business expansion policies of debt is
+          good for people," for not undertanding that any gained supply by
+          demand capacity bloat, instead of a more frugal or more producer(s),
+          is negative for supply chain (customers are in supply marginal
+          propensityutilitylabor) in net
+          <br />
+          <br />
           If you want there to stop being Asian racism stop making us wear
           masks&nbsp;<a href="https://en.wikipedia.org/wiki/Leana_Wen">cunt</a>
           <br />
