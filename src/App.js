@@ -385,12 +385,12 @@ export default class App extends React.Component {
           heart-pulmonary disease because not many report as healthy, CDC??
           <br />
           <br />
-          Your guest says he doesn't know if the american people want
-          unemployment insurance. well it was forced upon us in 1937 and 63% of
-          people would want to PAY DOWN debt let alone not spend. That is
-          necessary to not be the case for the plausibility that people like
-          unemployment insurance for any cause, fraudulent, negligence by any
-          party involved, or natural
+          Your guest Gov Huckabee says he doesn't know if the american people
+          want unemployment insurance. well it was forced upon us in 1937 and
+          63% of people (n=8m) would want to PAY DOWN debt let alone not spend.
+          That is necessary to not be the case for the plausibility that people
+          like unemployment insurance for any cause, fraudulent, negligence by
+          any party involved, or natural
           <br />
           <br />I have not heard of one "
           <span
