@@ -702,6 +702,12 @@ export default class App extends React.Component {
           <a href="https://www.google.com/search?q=divorce+lawyer+near+me">
             legal
           </a>
+          ... He also says a couple nights later that it is not ok to call the
+          China Virus such & the London Virus not because he doesn't get that
+          the NIH and Fauci released it or it was more suceptible due to the
+          meat marketplace (more evidence it doesn't travel by mask, but by
+          meat) 2 months prior to the first case known of throughout 2020-21,
+          after later studies showed (3/19/2021, CNN)
           <br />
           <br />
           <div
