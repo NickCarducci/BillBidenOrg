@@ -579,8 +579,16 @@ export default class App extends React.Component {
           <br />
           <br />
           <a href="https://vianickcarducci.medium.com/gdp-the-big-lie-b1a0868785f4">
-            man of your own thought, accosting you’re fucking customers you
-            loiter
+            man of your own thought; accosting you’re f*cking customers, you
+            loiterer. only trade what you have earned bucko don't collude with a
+            lender, especially if&nbsp;
+            <span style={{ textDecoration: "line-through", color: "black" }}>
+              you deliver the creditor the borrowers' customers' down payments
+            </span>
+            &nbsp;and&nbsp;
+            <span style={{ textDecoration: "line-through", color: "black" }}>
+              not experiencing price-elasticity as a healthy economy would
+            </span>
           </a>
           <br />
           <br />
