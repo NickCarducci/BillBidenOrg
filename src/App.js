@@ -585,9 +585,13 @@ export default class App extends React.Component {
             <span style={{ textDecoration: "line-through", color: "black" }}>
               you deliver the creditor the borrowers' customers' down payments
             </span>
+            ,&nbsp;
+            <span style={{ textDecoration: "line-through", color: "black" }}>
+              take more compounding
+            </span>
             &nbsp;and&nbsp;
             <span style={{ textDecoration: "line-through", color: "black" }}>
-              not experiencing price-elasticity as a healthy economy would
+              not experience price-elasticity as a healthy economy would
             </span>
           </a>
           <br />
