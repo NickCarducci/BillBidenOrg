@@ -371,8 +371,17 @@ export default class App extends React.Component {
           something else bub
           <br />
           <br />
-          Rita Cosby, cunt you cannot say 57% of New Yorkers want Andrew to stay
-          in from a poll of sample size&nbsp;
+          Rita Cosby, cunt who reports on war with a laughing inflection
+          (typical, two-face, nasty, scum, evil):
+          <br />
+          1) Keystone pipeline stopped because I thought of magnate.company and
+          my antitrust case against the government: the lands to be usurped and
+          paid for "just compensation" is monopsony-trust-building and you're
+          loose with the finances for your special insterest like communism...
+          sociology 101
+          <br />
+          2) You cannot say 57% of New Yorkers want Andrew to stay in from a
+          poll of sample size&nbsp;
           <a href="https://scri.siena.edu/2021/03/15/voters-say-cuomo-should-not-resign-50-35/">
             875
           </a>
