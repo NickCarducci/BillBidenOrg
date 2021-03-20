@@ -20,11 +20,11 @@ export default class App extends React.Component {
           <a href="https://pro.oc-oxfordcommunique.com/">
             Bill O'reilly has a financial goober
           </a>
-          &nbsp;on who says incorrectly, "business expansion policies of debt is
-          good for people," for not undertanding that any gained supply by
-          demand capacity bloat, instead of a more frugal or more producer(s),
-          is negative for supply chain (customers are in supply marginal
-          propensityutilitylabor) in net
+          &nbsp;on who says incorrectly - "business 'expansion' policies, of
+          debt, is good for people;" all for not undertanding that any gained
+          supply by demand capacity of-bloat, instead of a more frugal or more
+          producer(s), is negative for supply chain (customers are in supply
+          marginal propensityutilitylabor) in net
           <br />
           <br />
           If you want there to stop being Asian racism stop making us wear
@@ -144,8 +144,8 @@ export default class App extends React.Component {
                   width: "100%",
                   height: "auto"
                 }}
-                alt="always, not just sneeze https://pubmed.ncbi.nlm.nih.gov/17542834/"
                 src="https://www.dl.dropboxusercontent.com/s/yt1089433ca2ixp/measles.jpeg?dl=0"
+                alt="always, not just sneeze https://pubmed.ncbi.nlm.nih.gov/17542834/"
               />
             </div>
             <div
@@ -372,7 +372,7 @@ export default class App extends React.Component {
           <br />
           <br />
           Rita Cosby, cunt who reports on war with a laughing inflection
-          (typical, two-face, nasty, scum, evil):
+          (typical, two-face, nasty):
           <br />
           1) Keystone pipeline stopped because I thought of magnate.company and
           my antitrust case against the government: the lands to be usurped and
