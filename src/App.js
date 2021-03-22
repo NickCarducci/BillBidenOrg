@@ -39,7 +39,9 @@ export default class App extends React.Component {
           pay down debt but delay sales tax but still pay out to bonds and your
           contractor-friends. Total monopsony and playcation for ulterior motive
           of money. boo hoo nicole m Common sense says Pubs are scared of AOC
-          because “landlords are slavery-by-proxy” is common sense
+          because “landlords are&nbsp;
+          <a href="https://squatcommune.com">slavery-by-proxy</a>” is common
+          sense
           <br />
           <br />
           "All the billions to the states can certainly wipe out the DEFICIT
