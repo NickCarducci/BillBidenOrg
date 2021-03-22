@@ -519,6 +519,10 @@ export default class App extends React.Component {
           healthcare" - &nbsp;<a href="https://bernardgoldberg.com/">Biden</a>
           <br />
           <br />
+          "We can afford another 2 million people" - &nbsp;
+          <a href="https://wabcradio.com/">Biden</a>
+          <br />
+          <br />
           <div
             style={{
               padding: "10px",
