@@ -27,8 +27,12 @@ export default class App extends React.Component {
           marginal propensityutilitylabor) in net
           <br />
           <br />
-          If you want there to stop being Asian racism stop making us wear
-          masks&nbsp;<a href="https://en.wikipedia.org/wiki/Leana_Wen">cunt</a>
+          If you want there to stop being Asian&nbsp;
+          <a href="https://www.buzzfeednews.com/article/henrygomez/joe-biden-strom-thurmond-eulogy">
+            racism
+          </a>
+          &nbsp;stop making us wear masks&nbsp;
+          <a href="https://en.wikipedia.org/wiki/Leana_Wen">cunt</a>
           <br />
           <br />
           Nicole Maliotakis wants to launder the equityutilitymoney split to not
