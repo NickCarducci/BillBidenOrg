@@ -20,6 +20,11 @@ export default class App extends React.Component {
           Time doesn't change matter
         <br />
         <br />
+          If communism is&nbsp;<a href="https://squatcommune.com">serfdom</a>,
+          finance/rent/insurance not producing for but competing with consumers
+          is its minimal viable form
+          <br />
+          <br />
           Biden floats sending money to places with a lot of murder. definitely never played chess
         <br />
         <br />
