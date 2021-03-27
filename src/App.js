@@ -17,6 +17,11 @@ export default class App extends React.Component {
             position: "relative"
           }}
         >
+          Just for perspective, if abode serflords were forced to settle trade,
+          the city might find long term residents. I think my rental policy of{" "}
+          {"<"}5 units/stores per landlord would start-well on a city-level...
+          <br />
+          <br />
           <a href="https://pro.oc-oxfordcommunique.com/">
             Bill O'reilly has a financial goober
           </a>
