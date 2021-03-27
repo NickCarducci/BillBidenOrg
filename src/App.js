@@ -139,9 +139,14 @@ export default class App extends React.Component {
             WAR CRIME
           </div>
           &nbsp;monoclonal antibodies are the same as the cold's reaction made,
-          no proof covid is deadlier than other strains & the risk is
-          exclusionary. Any help from the vaccine is not active until there are
-          no symptoms & when there are no symtpoms there is no proof of
+          no proof covid is&nbsp;
+          <a href="https://pubmed.ncbi.nlm.nih.gov/25340792/#&gid=article-figures&pid=figure-1-uid-0">
+            deadlier, less common or more abundant and growing
+          </a>
+          &nbsp; than other strains especially with so many asymptomatic
+          positive antigen pcr tests; & the duress of B-cell dysregulation risk
+          is exclusionary. Any help from the vaccine is not active until there
+          are no symptoms & when there are no symtpoms there is no proof of
           non-touching or non-coughing transmission;&nbsp;
           <a href="https://en.wikipedia.org/wiki/Viral_disease#Baltimore_group">
             the Coronaviridae
