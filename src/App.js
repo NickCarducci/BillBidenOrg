@@ -138,9 +138,17 @@ export default class App extends React.Component {
           >
             WAR CRIME
           </div>
-          &nbsp;negative covid tests mean you don't have the antigens now, just
-          use temperature! Sputum why is that closer to the source of infection
-          instead of back of throat. Makes no sense.
+          &nbsp;monoclonal antibodies are the same as the cold's reaction made,
+          no proof covid is deadlier than other strains & the risk is
+          exclusionary. Any help from the vaccine is not active until there are
+          no symptoms & when there are no symtpoms there is no proof of
+          non-touching or non-coughing transmission;&nbsp;
+          <a href="https://en.wikipedia.org/wiki/Viral_disease#Baltimore_group">
+            the Coronaviridae
+          </a>
+          &nbsp;is one of many viruses, just use temperature! Sputum why is that
+          closer to the source of infection instead of back of throat. Makes no
+          sense.
           <br />
           <br />
           Be an adult in the world. 2% of the population own 4100% + invoices
