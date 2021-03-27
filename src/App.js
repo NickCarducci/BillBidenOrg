@@ -27,7 +27,11 @@ export default class App extends React.Component {
           marginal propensityutilitylabor) in net
           <br />
           <br />
-          If you want there to stop being Asian&nbsp;
+          If you want there to stop being&nbsp;
+          <a href="https://www.businessinsider.com/biden-said-desegregation-would-create-a-racial-jungle-2019-7">
+            Asian
+          </a>
+          &nbsp;
           <a href="https://www.buzzfeednews.com/article/henrygomez/joe-biden-strom-thurmond-eulogy">
             racism
           </a>
