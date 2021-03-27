@@ -18,16 +18,17 @@ export default class App extends React.Component {
           }}
         >
           Time doesn't change matter
-        <br />
-        <br />
+          <br />
+          <br />
           If communism is&nbsp;<a href="https://squatcommune.com">serfdom</a>,
           finance/rent/insurance not producing for but competing with consumers
           is its minimal viable form
           <br />
           <br />
-          Biden floats sending money to places with a lot of murder. definitely never played chess
-        <br />
-        <br />
+          Biden floats sending money to places with a lot of murder. definitely
+          never played chess
+          <br />
+          <br />
           Just for perspective, if abode&nbsp;
           <a href="https://helpforlandlords.com/landlord-state-guide-assistance/new-york-landlord-guide/new-york-apartment-associations-and-new-york-landlord-associations/">
             serflords
@@ -137,9 +138,9 @@ export default class App extends React.Component {
           >
             WAR CRIME
           </div>
-          &nbsp;negative covid tests mean you don't have the antibodies now,
-          just use temperature! Sputum why is that closer to the source of
-          infection instead of back of throat. Makes no sense.
+          &nbsp;negative covid tests mean you don't have the antigens now, just
+          use temperature! Sputum why is that closer to the source of infection
+          instead of back of throat. Makes no sense.
           <br />
           <br />
           Be an adult in the world. 2% of the population own 4100% + invoices
@@ -956,9 +957,9 @@ export default class App extends React.Component {
           <br />
           <br />
           Biden only thinks the state will prosecute Cuomo if he raped somebody,
-          not if he followed the NYC DOH orders (to not be able to deny entry
-          into nursing home by cold antibody test, only symptom), the whole of
-          government is liable then
+          not if he followed the NYC DOH orders [to not be able to deny entry
+          into nursing home by 1/2000/yr antigen test, only symptom], the whole
+          of government is liable then
           <br />
           <br />
           You need to snip him. Cuomo should be impeached for being so stupid as
