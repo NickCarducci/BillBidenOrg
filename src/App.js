@@ -17,6 +17,10 @@ export default class App extends React.Component {
             position: "relative"
           }}
         >
+          No amount of money can Fernando Mateo give me to make it worth more
+          than Class-action-suit and govtech lighttech. it is just math, banana
+          <br />
+          <br />
           “‘Investing’ [(government-monopsony)]in infrastructure more revenue,
           adds to debt, competitive disadvantage, 13th worst infrastructure,
           attracts adversaries where they haven’t up to now. We can’t afford not
