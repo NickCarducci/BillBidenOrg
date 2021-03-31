@@ -19,7 +19,11 @@ export default class App extends React.Component {
             position: "relative"
           }}
         >
-          "
+          "Extend home-aid services," claims Biden. It just mnopsonizes the
+          labor and increases the price paid, the frugal consumer is missing
+          cheated as are the whole class of demand
+          <br />
+          <br />"
           <a href="https://www.claimsjournal.com/news/national/2020/06/02/297361.htm">
             Grow our economy, make us more competitive
           </a>
