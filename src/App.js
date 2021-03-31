@@ -19,22 +19,27 @@ export default class App extends React.Component {
             position: "relative"
           }}
         >
-          "Grow our economy, make us more competitive" - President Biden
-        <br />
-        <br />
+          "
+          <a href="https://www.claimsjournal.com/news/national/2020/06/02/297361.htm">
+            Grow our economy, make us more competitive
+          </a>
+          " - President Biden
+          <br />
+          <br />
           Republicans do not want fiscal restraint, they want to cheat
           <br />
           <br />
-          "It is not stealing if it is collusion away from the most frugal producer and consumer"
+          "It is not stealing if it is collusion away from the most frugal
+          producer and consumer"
           <br />
           <br />
-      rent or promise is prohibiting settled-trade
+          rent or promise is prohibiting settled-trade
           <br />
           <br />
           Curtus Swila wants criminalization/jail based on opinion [you are
           allowed to brandish with what you can do in self-defense
-          ('reactionary-threat'...), pussy] but, news media that say you have power in
-          your vote with two candidates are liars
+          ('reactionary-threat'...), pussy] but, news media that say you have
+          power in your vote with two candidates are liars
           <br />
           <br />
           No amount of money can Fernando Mateo give me (for time) to make it
