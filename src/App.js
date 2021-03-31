@@ -22,7 +22,10 @@ export default class App extends React.Component {
           Republicans do not want fiscal restraint, they want to cheat
           <br />
           <br />
-          "It is not stealing if it is on paper"
+          "It is not stealing if it is collusion away from the most frugal producer and consumer"
+          <br />
+          <br />
+      rent or promise is prohibiting settled-trade
           <br />
           <br />
           Curtus Swila wants criminalization/jail based on opinion [you are
