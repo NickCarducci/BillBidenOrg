@@ -19,6 +19,10 @@ export default class App extends React.Component {
             position: "relative"
           }}
         >
+          "No one can comprehend these numbers," -&nbsp;
+          <a href="https://wavv.art/United_States_of_America">Erin Burnett</a>
+          <br />
+          <br />
           18m jobs, level the playing field," claims Biden. You are just using
           our money against our will to buy property. American capitalism is
           communism
