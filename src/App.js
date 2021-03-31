@@ -17,6 +17,23 @@ export default class App extends React.Component {
             position: "relative"
           }}
         >
+          “‘Investing’ [(government-monopsony)]in infrastructure more revenue,
+          adds to debt, competitive disadvantage, 13th worst infrastructure,
+          attracts adversaries where they haven’t up to now. We can’t afford not
+          to make them. How do we pay for it?” -Biden
+          <br />
+          <br />
+          No one making under $400k will get their taxes raised, but those 1%
+          wealth-bastards are catching up to the .1%
+          <br />
+          <br />
+          $1t in 15 years, that will not even recoup the deficit
+          <br />
+          <br />
+          Corp can deduct wages from their corporate profit cash on book that
+          year
+          <br />
+          <br />
           Time doesn't change matter
           <br />
           <br />
