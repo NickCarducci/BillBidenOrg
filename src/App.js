@@ -17,7 +17,7 @@ export default class App extends React.Component {
             position: "relative"
           }}
         >
-          No amount of money can Fernando Mateo give me to make it worth more
+          No amount of money can Fernando Mateo give me (for time) to make it worth more
           than Class-action-suit and govtech lighttech. it is just math, banana
           <br />
           <br />
