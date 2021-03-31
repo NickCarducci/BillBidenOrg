@@ -19,6 +19,9 @@ export default class App extends React.Component {
             position: "relative"
           }}
         >
+          Republicans do not want fiscal restraint, they want to cheat
+          <br />
+          <br />
           Curtus Swila wants criminalization/jail based on opinion [you are
           allowed to brandish with what you can do in self-defense
           ('reactionary-threat'...), pussy] but, news media that say you have power in
