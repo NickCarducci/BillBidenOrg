@@ -19,6 +19,9 @@ export default class App extends React.Component {
             position: "relative"
           }}
         >
+          "Grow our economy, make us more competitive" - President Biden
+        <br />
+        <br />
           Republicans do not want fiscal restraint, they want to cheat
           <br />
           <br />
