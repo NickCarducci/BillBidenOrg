@@ -21,7 +21,7 @@ export default class App extends React.Component {
         >
           Curtus Swila wants criminalization/jail based on opinion [you are
           allowed to brandish with what you can do in self-defense
-          ('reactionary-threat'...)] but, news media that say you have power in
+          ('reactionary-threat'...), pussy] but, news media that say you have power in
           your vote with two candidates are liars
           <br />
           <br />
