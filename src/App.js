@@ -20,7 +20,8 @@ export default class App extends React.Component {
           }}
         >
           18m jobs, level the playing field," claims Biden. You are just using
-          our money against our will to buy property
+          our money against our will to buy property. American capitalism is
+          communism
           <br />
           <br />
           He wants to build in electricity, isn't that a little dangerous to
@@ -40,7 +41,11 @@ export default class App extends React.Component {
           <br />
           <br />"
           <a href="https://www.claimsjournal.com/news/national/2020/06/02/297361.htm">
-            Grow our economy, make us more competitive
+            Grow our economy
+          </a>
+          ,&nbsp;
+          <a href="https://www.google.com/search?q=rioter+says+economic+growth+rebuild">
+            make us more competitive
           </a>
           " - President Biden
           <br />
