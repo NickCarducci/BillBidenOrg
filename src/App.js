@@ -19,6 +19,21 @@ export default class App extends React.Component {
             position: "relative"
           }}
         >
+          18m jobs, level the playing field," claims Biden. You are just using
+          our money against our will to buy property
+          <br />
+          <br />
+          He wants to build in electricity, isn't that a little dangerous to
+          stand on? Using&nbsp;
+          <a
+            href="https://magnate.company"
+            style={{ color: "black", fontWeight: "bolder" }}
+          >
+            magnate.company
+          </a>
+          &nbsp;has modularized risk if at all in comparison
+          <br />
+          <br />
           "Extend home-aid services," claims Biden. It just mnopsonizes the
           labor and increases the price paid, the frugal consumer is missing
           cheated as are the whole class of demand
