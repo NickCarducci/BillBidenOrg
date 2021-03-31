@@ -11,14 +11,23 @@ export default class App extends React.Component {
       <div className="App">
         <div
           style={{
-            width: "100%",
+            left: "10px",
+            textAlign: "left",
+            top: "0px",
+            width: "90%",
             maxWidth: "600px",
-            height: "min-content",
             position: "relative"
           }}
         >
-          No amount of money can Fernando Mateo give me (for time) to make it worth more
-          than Class-action-suit and govtech lighttech. it is just math, banana
+          Curtus Swila wants criminalization/jail based on opinion [you are
+          allowed to brandish with what you can do in self-defense
+          ('reactionary-threat'...)] but, news media that say you have power in
+          your vote with two candidates are liars
+          <br />
+          <br />
+          No amount of money can Fernando Mateo give me (for time) to make it
+          worth more than Class-action-suit and govtech lighttech. it is just
+          math, banana
           <br />
           <br />
           “‘Investing’ [(government-monopsony)]in infrastructure more revenue,
