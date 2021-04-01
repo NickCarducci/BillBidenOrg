@@ -19,6 +19,9 @@ export default class App extends React.Component {
             position: "relative"
           }}
         >
+          'investment' as monopsony (static) with *residual-unrequited-split*
+          <br />
+          <br />
           Infrastructure does not make us competitive with China, the only
           productive and not detrimental action you can take is gain volunteers
           and reduce inefficiencies or inelasticity gridlocks by abject
