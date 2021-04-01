@@ -19,7 +19,15 @@ export default class App extends React.Component {
             position: "relative"
           }}
         >
-          Work for somebody else, give them the profits? Probably the flouride
+          "Estate-planning as per investment-equiiy banking (non-lending),
+          treasury-shares, "savings" accounts, all damage-causing nomenclature
+          <br />
+          <br />
+          “Delivering us the Eucharist,” I doubt Jesus ever said that witchcraft
+          <br />
+          <br />
+          Work for somebody else, give them the profits, the equity, the
+          profit-share? Probably the flouride
           <br />
           YOU MUST HAVE WHITE TEETH im like knock us out of orbit why don't you
           <h2>
