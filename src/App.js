@@ -19,6 +19,12 @@ export default class App extends React.Component {
             position: "relative"
           }}
         >
+          Toll boothes and magnate.company cars
+          <br />
+          <br />
+          NSF-seed grant 2/2021 declined
+          <br />
+          <br />
           Jobs as a measure is slavery/luddite/prohibitoryOfSettledTrade, we should aim for index of indicies of
           (hours worked/population)/median home price 'investment' as monopsony
           (static) with *residual-unrequited-split*
