@@ -29,6 +29,11 @@ export default class App extends React.Component {
             </a>
             " - Jen Psaki
           </h2>
+          Speed for sake of production is not faster unless copyright is the
+          stoppage, shareholder rights is not faster as supply has not changed,
+          only demand. THIS IS NOT JUST A FUCKING DIFFERENCE OF OPINION, JEB
+          <br />
+          <br />
           Financial Industry are White Supremesists (Brits)
           <br />
           <br />
