@@ -19,7 +19,7 @@ export default class App extends React.Component {
             position: "relative"
           }}
         >
-          Jobs as a measure is slavery/luddite, we should aim for index of indicies of
+          Jobs as a measure is slavery/luddite/prohibitoryOfSettledTrade, we should aim for index of indicies of
           (hours worked/population)/median home price 'investment' as monopsony
           (static) with *residual-unrequited-split*
           <br />
