@@ -127,7 +127,9 @@ export default class App extends React.Component {
           <br />
           <br />
           "It is not stealing if it is collusion away from the most frugal
-          producer and consumer"
+          producer and consumer [except if they usually do so; faster but
+          forgive copyright and fairness towards laborers in stead of
+          corporation/commune risk-recoup-spending-frugality"
           <br />
           <br />
           rent or promise is prohibiting settled-trade
