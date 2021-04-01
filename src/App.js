@@ -22,7 +22,13 @@ export default class App extends React.Component {
           Work for somebody else, give them the profits? Probably the flouride
           <br />
           YOU MUST HAVE WHITE TEETH im like knock us out of orbit why don't you
-          <h2>"Competitive-bidding process" - Jen Psaki</h2>
+          <h2>
+            "
+            <a href="https://www.academia.edu/43983386/Can_a_socialist_or_communist_system_compete_effectively_in_a_global_economy">
+              Competitive-bidding process
+            </a>
+            " - Jen Psaki
+          </h2>
           Financial Industry are White Supremesists (Brits)
           <br />
           <br />
