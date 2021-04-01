@@ -19,28 +19,73 @@ export default class App extends React.Component {
             position: "relative"
           }}
         >
+          <h2>"Competitive-bidding process" - Jen Psaki</h2>
+          Financial Industry are White Supremesists (Brits)
+          <br />
+          <br />
+          “Unelected taxpayer” two oxymorons in one! @SteveDeaceShow news media
+          that say you have power in your vote with two candidates are liars, or
+          that taxpayers enable this spending are too
+          <br />
+          <br />
+          moldmask.co, cocaine is money, purity health dpt @SaverParty
+          <br />
+          <br />
+          These guys sounds like they are doing their own thing? How about
+          stepping on each others toes so voters can make a choice
+          <br />
+          <br />
+          Nationwide credit weasels out the tranche on consumer credit, trying
+          to launder to my input costs and themselves from my consumers for
+          debt/person increasing for what? If it was when customer are willing
+          and able it would likely be 1.2xcurrencyComponentOfM1 instead of
+          43:1x!
+          <div
+            style={{
+              position: "relative",
+              width: "100%",
+              minWidth: "100px",
+              maxWidth: "500px"
+            }}
+          >
+            <img
+              style={{
+                height: "auto",
+                width: "100%"
+              }}
+              alt={
+                `unrequited equitydollar-split fraud for counterfeit-wagerers ` +
+                `(I did this in comparative law/spite knowing it is all going to be ` +
+                `reversed to the point of no action be taken with malintent to not compete ` +
+                `for, but with, customers of businesses not creditors (not a customer, a ` +
+                `conspirator to loiter on the counterfeit means[reposession,borrowers' ` +
+                `consumers' down-payments and rights])`
+              }
+              src="https://www.dl.dropboxusercontent.com/s/stzp3uea3o3y85y/FullSizeRender.jpeg?dl=0"
+            />
+          </div>
+          <br />
+          <br />
+          They are going to equitydollar-, residual-split to fraudulently catch
+          up @fec @POTUS @VP http://billbiden.org
+          <br />
+          <br />
           Toll boothes and magnate.company cars
           <br />
           <br />
           NSF-seed grant 2/2021 declined
           <br />
           <br />
-          Jobs as a measure is slavery/luddite/prohibitoryOfSettledTrade, we should aim for index of indicies of
-          (hours worked/population)/median home price 'investment' as monopsony
-          (static) with *residual-unrequited-split*
-          <br />
-          <br />
-          'investment' as monopsony (static) with *residual-unrequited-split*
+          Jobs as a measure is slavery/luddite/prohibitoryOfSettledTrade, we
+          should aim for index of indicies of (hours worked/population)/median
+          home price 'investment' as monopsony (static) with
+          *residual-unrequited-split*
           <br />
           <br />
           Infrastructure does not make us competitive with China, the only
           productive and not detrimental action you can take is gain volunteers
           and reduce inefficiencies or inelasticity gridlocks by abject
           collusive actions "No one can comprehend these numbers," -&nbsp;
-          <a href="https://wavv.art/United_States_of_America">Erin Burnett</a>
-          <br />
-          <br />
-          "No one can comprehend these numbers," -&nbsp;
           <a href="https://wavv.art/United_States_of_America">Erin Burnett</a>
           <br />
           <br />
@@ -61,8 +106,8 @@ export default class App extends React.Component {
           <br />
           <br />
           "Extend home-aid services," claims Biden. It just mnopsonizes the
-          labor and increases the price paid, the frugal consumer is missing
-          cheated as are the whole class of demand
+          labor and increases the price paid, the frugal consumer is missing -
+          cheated - as are the whole class of demand
           <br />
           <br />"
           <a href="https://www.claimsjournal.com/news/national/2020/06/02/297361.htm">
