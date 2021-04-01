@@ -19,6 +19,19 @@ export default class App extends React.Component {
             position: "relative"
           }}
         >
+          With $92.067b US Gov bonds, Microsoft awards themselves $22b AR
+          headset deal with military.
+          <br />
+          <br />
+          FALSE AD @fec 🚨Cancelling debt would not be paying it with unrequited
+          equity, dollar-split from savers. Cancelling it would be calling the
+          impossible contract moot in court!
+          <br />
+          <a href="https://finance.yahoo.com/news/biden-canceling-another-1-3b-223600506.html">
+            @dougwhiteman
+          </a>
+          <br />
+          <br />
           "Estate-planning as per investment-equiiy banking (non-lending),
           treasury-shares, "savings" accounts, all damage-causing nomenclature
           <br />
