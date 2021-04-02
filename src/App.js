@@ -42,6 +42,14 @@ export default class App extends React.Component {
             position: "relative"
           }}
         >
+          1/2 cops do it for money, 1/2 do it for other desires
+          <br />
+          <br />
+          You care about what drives them and not what drives people that war?
+          For sake of prevention, diplomacy, but don't you think consernation
+          deserves reconciliation for the sake of efficiency-advancements
+          <br />
+          <br />
           You cannot call credit-based-lending or purchasing, investment,
           moreover not that of such by Congress as owned by the people, like a
           mortgage/rent is not their home, until full-payment (in the same way a
