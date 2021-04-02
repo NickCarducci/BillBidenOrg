@@ -19,7 +19,7 @@ export default class App extends React.Component {
             position: "relative"
           }}
         >
-          "creating jobs"/labor monopsony
+          "creating jobs"/labor monopsony:nursing home service-workers
           <br />
           <br />
           Stinchfeild says they are treating everyone the same. the media is
@@ -52,10 +52,19 @@ export default class App extends React.Component {
           “Delivering us the Eucharist,” I doubt Jesus ever said that witchcraft
           <br />
           <br />
-          Work for somebody else, give them the profits, the equity, the
-          profit-share? Probably the flouride
-          <br />
-          YOU MUST HAVE WHITE TEETH im like knock us out of orbit why don't you
+          <div
+            style={{
+              padding: "4px 10px",
+              color: "white",
+              backgroundColor: "rgba(20,20,40,.5)"
+            }}
+          >
+            Work for somebody else, give them the profits, the equity, the
+            profit-share? Probably the flouride
+            <br />
+            YOU MUST HAVE WHITE TEETH im like knock us out of orbit why don't
+            you
+          </div>
           <h2>
             "
             <a href="https://www.academia.edu/43983386/Can_a_socialist_or_communist_system_compete_effectively_in_a_global_economy">
