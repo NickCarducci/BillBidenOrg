@@ -42,6 +42,12 @@ export default class App extends React.Component {
             position: "relative"
           }}
         >
+          You cannot call credit-based lending or purchasing investment, not
+          that of such by Congress as owned by the people, like a mortgage/rent
+          is not their home, until full-payment (in the same way a deposit is
+          not a price-withdrawal-discretionary option-to-buy)
+          <br />
+          <br />
           An order to cease requires attention without desisting-action
           <br />
           <br />
