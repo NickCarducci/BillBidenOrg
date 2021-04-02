@@ -42,7 +42,8 @@ export default class App extends React.Component {
             position: "relative"
           }}
         >
-          Terrorism or responsive-threat of self-defense? Islam says ban debt
+          Islam says ban debt/cross-party accosting, accrual: mental-health, terrorism or responsive-threat of
+          self-defense?
           <br />
           <br />
           Help,&nbsp;
