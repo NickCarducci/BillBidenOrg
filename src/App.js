@@ -42,6 +42,11 @@ export default class App extends React.Component {
             position: "relative"
           }}
         >
+          CNN seems to assume all violence is because of illogical-mental lapse,
+          racism or overactive libido, take some mined rocks from a cave to
+          sterilize
+          <br />
+          <br />
           It is illegal to call insurance, provider or benefit
           <br />
           <br />
