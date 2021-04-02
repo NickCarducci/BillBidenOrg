@@ -11,7 +11,7 @@ export default class App extends React.Component {
       <div
         style={{
           paddingBottom: "56px",
-          WebkitTextStroke: ".7px white",
+          WebkitTextStroke: ".6px white",
           color: "black",
           fontFamily: "sans-serif",
           textAlign: "center"
