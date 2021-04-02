@@ -42,6 +42,9 @@ export default class App extends React.Component {
             position: "relative"
           }}
         >
+          An order to cease requires attention without desisting-action
+          <br />
+          <br />
           Islam says ban debt/cross-party accosting, accrual:&nbsp;
           <a href="https://twitter.com/evanperez">mental-health</a>, terrorism
           or&nbsp;
