@@ -19,6 +19,9 @@ export default class App extends React.Component {
             position: "relative"
           }}
         >
+          "creating jobs"/labor monopsony
+          <br />
+          <br />
           Stinchfeild says they are treating everyone the same. the media is
           misinforming both sides. they are not giving UBI. they are also not
           treating the savers and laborers the same as the ones negotiating for
@@ -29,9 +32,13 @@ export default class App extends React.Component {
           headset deal with military.
           <br />
           <br />
-          FALSE AD @fec 🚨Cancelling debt would not be paying it with unrequited
-          equity, dollar-split from savers. Cancelling it would be calling the
-          impossible contract moot in court!
+          FALSE AD @fec 🚨
+          <b>
+            Cancelling debt would not be paying it with unrequited equity,
+            dollar-split from savers. Cancelling it would be calling the
+            impossible contract moot in court
+          </b>
+          !
           <br />
           <a href="https://finance.yahoo.com/news/biden-canceling-another-1-3b-223600506.html">
             @dougwhiteman
@@ -1260,4 +1267,3 @@ export default class App extends React.Component {
     );
   }
 }
-
