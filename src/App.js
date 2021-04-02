@@ -42,6 +42,7 @@ export default class App extends React.Component {
             position: "relative"
           }}
         >
+          $800k down, $1.2m back after 8 years of squatting and prohibiting settled trade
           <h1>The Nation of CostCo</h1>
           Evidence of harm is only thing you can exclude non-duress/risk entry
           on your ride of {"<"}20 producers
