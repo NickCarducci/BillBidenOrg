@@ -22,6 +22,14 @@ export default class App extends React.Component {
           15 yrs of taxes Fmr Sec of Transpo/labor E.Chow for 8 runway of plan
           <br />
           <br />
+          "Everyone would want transportation infrastructure, but they would
+          only want that"
+          <br />
+          <br />
+          As evidently the smartest person in the world history, I implore you
+          to use margin-targeted (network baked-in monopsony) toll booths, use
+          magnate.company instead
+          <br />
           <h2>"r&d"/input-asset monopsony:$580b/$2.2t</h2>
           "creating jobs"/labor monopsony:nursing home service-workers
           <br />
