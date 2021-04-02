@@ -42,6 +42,10 @@ export default class App extends React.Component {
             position: "relative"
           }}
         >
+          “If they wanted to hurt people, they certainly didn’t to their
+          homework, Brooke,” “totally Josh, thanks bro”
+          <br />
+          <br />
           $800k down, $1.2m back after 8 years of squatting and prohibiting settled trade
           <h1>The Nation of CostCo</h1>
           Evidence of harm is only thing you can exclude non-duress/risk entry
