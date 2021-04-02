@@ -42,6 +42,14 @@ export default class App extends React.Component {
             position: "relative"
           }}
         >
+          “The growth in consumer debt in the past year has fortunately been
+          largely driven by increases in relatively good (mortgage) debt that
+          has positive tax and social benefits in the form of homeownership.”
+          This is untrue assuming price-elasticity of the least frugal
+          home-builder and consumer settling a trade of assets or business-line.
+          It actually PROHIBITS trade
+          <br />
+          <br />
           15 yrs of taxes Fmr Sec of Transpo/labor E.Chow for 8 runway of plan
           <br />
           <br />
