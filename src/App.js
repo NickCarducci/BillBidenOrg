@@ -11,7 +11,7 @@ export default class App extends React.Component {
       <div
         style={{
           paddingBottom: "56px",
-          WebkitTextStroke: ".6px white",
+          WebkitTextStroke: ".7px white",
           color: "black",
           fontFamily: "sans-serif",
           textAlign: "center"
@@ -42,6 +42,34 @@ export default class App extends React.Component {
             position: "relative"
           }}
         >
+          <div
+            style={{
+              backgroundColor: "white",
+              margin: "10px",
+              padding: "10px",
+              border: "1px solid rgb(200,200,200)",
+              borderRadius: "10px"
+            }}
+          >
+            how can it be helpful it is only residual-split and price-fixed by
+            bond-holders, @USTreasury , @MoodysAnalytics and @SEC moldmask.co,
+            cocaine is money, purity health dpt @SaverParty · Mar 31 you'll do
+            this over my dead body @POTUS http://billbiden.org
+          </div>
+          <br />
+          Printing is good for the&nbsp;
+          <a href="https://vianickcarducci.medium.com/optimal-security-for-webapps-dd2a65c2418c">
+            unprepared
+          </a>
+          , but to prepare with vaults.biz isn't illegal
+          <br />
+          <br />
+          "dissoloutioned with the government"
+          <br />
+          <br />
+          "disgruntled with the government"
+          <br />
+          <br />
           Violence is reasonable using comparative law if citizens are being
           murdered for counterfeit while government officials condone it in
           credit-contracts, using precedence of our founding of war - not
@@ -49,8 +77,6 @@ export default class App extends React.Component {
           protecting common law rights. This is not "
           <a href="https://khanna.house.gov/">political</a>" this is a fact
           <br />
-          "CIA-chip/following him, highly mentally-unstable, obviously," Chief
-          ramsey. aren't they though?
           "CIA-chip/following him, highly mentally-unstable, obviously," Chief
           ramsey. aren't they though?
           <h1
