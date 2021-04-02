@@ -19,6 +19,7 @@ export default class App extends React.Component {
             position: "relative"
           }}
         >
+          <h2>"r&d"/input-asset monopsony:$580b/$2.2b</h2>
           "creating jobs"/labor monopsony:nursing home service-workers
           <br />
           <br />
