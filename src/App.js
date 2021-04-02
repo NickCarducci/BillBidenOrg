@@ -19,9 +19,10 @@ export default class App extends React.Component {
             position: "relative"
           }}
         >
-          Stinchfeild says they are treating everyone the same.  the media is misinforming both sides.
-        <br />
-        <br />
+          Stinchfeild says they are treating everyone the same. the media is
+          misinforming both sides.
+          <br />
+          <br />
           With $92.067b US Gov bonds, Microsoft awards themselves $22b AR
           headset deal with military.
           <br />
@@ -162,9 +163,12 @@ export default class App extends React.Component {
           <br />
           <br />
           "It is not stealing if it is collusion away from the most frugal
-          producer and consumer [except if they usually do so; faster but
-          forgive copyright and fairness towards laborers in stead of
-          corporation/commune risk-recoup-spending-frugality"
+          producer and consumer&nbsp;
+          <b style={{ color: "blue" }}>
+            [except if they usually do so; faster but forgive copyright and
+            fairness towards laborers in stead of corporation/commune
+            risk-recoup-spending-frugality"]
+          </b>
           <br />
           <br />
           rent or promise is prohibiting settled-trade
