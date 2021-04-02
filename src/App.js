@@ -10,6 +10,7 @@ export default class App extends React.Component {
     return (
       <div
         style={{
+          paddingBottom: "56px",
           WebkitTextStroke: ".7px white",
           color: "black",
           fontFamily: "sans-serif",
