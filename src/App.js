@@ -44,7 +44,11 @@ export default class App extends React.Component {
         >
           Islam says ban debt/cross-party accosting, accrual:&nbsp;
           <a href="https://twitter.com/evanperez">mental-health</a>, terrorism
-          or responsive-threat of self-defense?
+          or&nbsp;
+          <a href="https://sarah-angleton.com/2017/07/06/a-clever-person-does-not-stick-his-head-inside-a-lions-mouth/">
+            responsive
+          </a>
+          -threat of self-defense?
           <br />
           <br />
           Help,&nbsp;
