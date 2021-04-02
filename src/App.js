@@ -42,6 +42,49 @@ export default class App extends React.Component {
             position: "relative"
           }}
         >
+          <h1
+            style={{
+              color: "green",
+              fontFamily: '"Pacifico", sans-serif'
+            }}
+          >
+            Chauvin killed Floyd for fractional-reserve-credit-lending. Is
+            desisting in desisting of stealing, with intent to harm financially,
+            license to kill?
+          </h1>
+          Isn’t it the fault of the Police Dept for using force on a dolla man a
+          dolla
+          <br />
+          <br />
+          Resisting arrest of fractional reserves? You get the knee/death.
+          That’s the training. Minn. Police: If he dies, he dies #Minnesota
+          <br />
+          <br />
+          Wow, you know something, if the cop was attacked with their own cuffs
+          could they not be protected by self-defense cause they let it get that
+          stupid? Only they can brandish
+          https://armedcitizensnetwork.org/december-2015-front-page/425-understanding-blunt-force-trauma-lethality
+          we can net up rhinos
+          <br />
+          <br />
+          God firstFolded handsFolded handsHundred points symbol.. Not
+          interesting in politics
+          <br />
+          <br />
+          Are there ever uncontrolled-substances or was that just the f’n tea in
+          1773 moldmask.co, cocaine is money, purity health dpt
+          <br />
+          <br />
+          If I relaxed and performed better with (a) burning (b) tea, would that
+          be illegal? Or only if we (c) used it as money without police
+          benefit-need and bond holders benefit moldmask.co, cocaine is money,
+          purity health dpt
+          <br />
+          <br />
+          If tea was controlled by prescription, imagine the
+          immediate-forbiddance
+          <br />
+          <br />
           How Poetic, cherry blossoms blooming, Good Friday, cops likely
           smooshed for anger about finance/mental-health
           <br />
@@ -58,7 +101,8 @@ export default class App extends React.Component {
           homework, Brooke,” “totally Josh, thanks bro”
           <br />
           <br />
-          $800k down, $1.2m back after 8 years of squatting and prohibiting settled trade
+          $800k down, $1.2m back after 8 years of squatting and prohibiting
+          settled trade
           <h1>The Nation of CostCo</h1>
           Evidence of harm is only thing you can exclude non-duress/risk entry
           on your ride of {"<"}20 producers
