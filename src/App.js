@@ -42,6 +42,9 @@ export default class App extends React.Component {
             position: "relative"
           }}
         >
+          Terrorism or responsive-threat of self-defense?
+          <br />
+          <br />
           Help,&nbsp;
           <a href="https://twitter.com/JDWackrow">I don't want to talk</a>, I
           want my rights
