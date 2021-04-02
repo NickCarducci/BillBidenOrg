@@ -42,6 +42,19 @@ export default class App extends React.Component {
             position: "relative"
           }}
         >
+          <h1
+            style={{
+              color: "green",
+              fontFamily: '"Pacifico", sans-serif'
+            }}
+          >
+            "An act of despiration"
+          </h1>
+          <b>Democracy</b>&nbsp;is for formulating punishments but
+          representation is not more authoritative than&nbsp;<b>civil rights</b>
+          &nbsp;- they work together?
+          <br />
+          <br />
           1/2 cops do it for money, 1/2 do it for other desires
           <br />
           <br />
