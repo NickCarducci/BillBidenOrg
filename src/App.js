@@ -42,6 +42,10 @@ export default class App extends React.Component {
             position: "relative"
           }}
         >
+          How Poetic, cherry blossoms blooming, Good Friday, cops likely
+          smooshed for anger about finance/mental-health
+          <br />
+          <br />
           CNN seems to assume all violence is because of illogical-mental lapse,
           racism or overactive libido, take some mined rocks from a cave to
           sterilize
