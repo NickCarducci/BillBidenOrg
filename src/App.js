@@ -42,7 +42,7 @@ export default class App extends React.Component {
             position: "relative"
           }}
         >
-          Terrorism or responsive-threat of self-defense?
+          Terrorism or responsive-threat of self-defense? Islam says ban debt
           <br />
           <br />
           Help,&nbsp;
