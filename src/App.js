@@ -76,10 +76,6 @@ export default class App extends React.Component {
           we can net up rhinos
           <br />
           <br />
-          God firstFolded handsFolded handsHundred points symbol.. Not
-          interesting in politics
-          <br />
-          <br />
           Are there ever uncontrolled-substances or was that just the f’n tea in
           1773 moldmask.co, cocaine is money, purity health dpt
           <br />
