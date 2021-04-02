@@ -451,7 +451,7 @@ export default class App extends React.Component {
             racism
           </a>
           &nbsp;stop making us wear masks&nbsp;
-          <a href="https://en.wikipedia.org/wiki/Leana_Wen">cunt</a>
+          <a href="https://en.wikipedia.org/wiki/Leana_Wen">****</a>
           <br />
           <br />
           Nicole Maliotakis wants to launder the equityutilitymoney split to not
@@ -810,7 +810,7 @@ export default class App extends React.Component {
           something else bub
           <br />
           <br />
-          Rita Cosby, cunt who reports on war with a laughing inflection
+          Rita Cosby, **** who reports on war with a laughing inflection
           (typical, two-face, nasty):
           <br />
           1) Keystone pipeline stopped because I thought of magnate.company and
