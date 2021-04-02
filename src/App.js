@@ -20,7 +20,9 @@ export default class App extends React.Component {
           }}
         >
           Stinchfeild says they are treating everyone the same. the media is
-          misinforming both sides.
+          misinforming both sides. they are not giving UBI. they are also not
+          treating the savers and laborers the same as the ones negotiating for
+          work, and their suppliers, today
           <br />
           <br />
           With $92.067b US Gov bonds, Microsoft awards themselves $22b AR
@@ -1258,3 +1260,4 @@ export default class App extends React.Component {
     );
   }
 }
+
