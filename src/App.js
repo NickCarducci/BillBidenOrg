@@ -42,6 +42,10 @@ export default class App extends React.Component {
             position: "relative"
           }}
         >
+          Evidence of harm is only thing you can exclude non-duress/risk entry
+          on your ride of {"<"}20 producers
+          <br />
+          <br />
           “The growth in consumer debt in the past year has fortunately been
           largely driven by increases in relatively good (mortgage) debt that
           has positive tax and social benefits in the form of homeownership.”
