@@ -21,7 +21,7 @@ export default class App extends React.Component {
             position: "fixed",
             width: "40%",
             right: "0px",
-            maxWidth: "150px",
+            maxWidth: "250px",
             minWidth: "100px"
           }}
         >
