@@ -8,7 +8,29 @@ export default class App extends React.Component {
   }
   render() {
     return (
-      <div className="App">
+      <div
+        style={{
+          WebkitTextStroke: ".7px white",
+          color: "black",
+          fontFamily: "sans-serif",
+          textAlign: "center"
+        }}
+      >
+        <div
+          style={{
+            position: "fixed",
+            width: "40%",
+            right: "0px",
+            maxWidth: "150px",
+            minWidth: "100px"
+          }}
+        >
+          <img
+            style={{ width: "100%", height: "auto" }}
+            alt="https://carducci.sh"
+            src="https://www.dl.dropboxusercontent.com/s/487x41r0dxm700k/me%20in%20cancun.jpg?dl=0"
+          />
+        </div>
         <div
           style={{
             left: "10px",
