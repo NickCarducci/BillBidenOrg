@@ -19,6 +19,9 @@ export default class App extends React.Component {
             position: "relative"
           }}
         >
+          15 yrs of taxes Fmr Sec of Transpo/labor E.Chow for 8 runway of plan
+          <br />
+          <br />
           <h2>"r&d"/input-asset monopsony:$580b/$2.2t</h2>
           "creating jobs"/labor monopsony:nursing home service-workers
           <br />
