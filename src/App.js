@@ -42,6 +42,15 @@ export default class App extends React.Component {
             position: "relative"
           }}
         >
+          Violence is reasonable using comparative law if citizens are being
+          murdered for counterfeit while government officials condone it in
+          credit-contracts, using precedence of our founding of war - not
+          against a King as international war-commander - but taxes, or
+          protecting common law rights. This is not "
+          <a href="https://khanna.house.gov/">political</a>" this is a fact
+          <br />
+          "CIA-chip/following him, highly mentally-unstable, obviously," Chief
+          ramsey. aren't they though?
           "CIA-chip/following him, highly mentally-unstable, obviously," Chief
           ramsey. aren't they though?
           <h1
