@@ -42,6 +42,9 @@ export default class App extends React.Component {
             position: "relative"
           }}
         >
+          It is illegal to call insurance, provider or benefit
+          <br />
+          <br />
           “If they wanted to hurt people, they certainly didn’t to their
           homework, Brooke,” “totally Josh, thanks bro”
           <br />
