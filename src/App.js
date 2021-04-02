@@ -42,6 +42,9 @@ export default class App extends React.Component {
             position: "relative"
           }}
         >
+          Cross-party risk of price-variable collective barloss is not safe
+        <br />
+        <br />
           <h1
             style={{
               color: "green",
