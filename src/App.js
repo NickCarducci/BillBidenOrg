@@ -51,7 +51,9 @@ export default class App extends React.Component {
               border: "1px solid rgb(200,200,200)",
               borderRadius: "10px"
             }}
-          >
+          >“Their undue burdens, or whatever” - Liz Peak
+      <br/>
+      <br/>
             Financial Sector, "economically-sensitive stocks" - Stephanie Link:
             (price) 1x book valued (finance) 43x reality, settled (economic)
             <br />
