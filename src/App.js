@@ -58,6 +58,17 @@ export default class App extends React.Component {
             <a href="https://moldmask.co">masks</a>," winks Nancy Pelosi
             <br />
             <br />
+            Debt-spending-on-<a href="https://vaults.biz">pipes</a>-and-
+            <a href="https://magnate.company">roadways</a>&nbsp;are critcal for
+            safety (make the company in charge pay for it with void invoices to
+            make prices squeeze to demand's willingness and ability, you should
+            agree if you are not one to set a deadline but in your rampage,
+            Nancy, you are colluding with bond-holders.&nbsp;
+            <b style={{ color: "blue" }}>turn off the water</b>, margin-target
+            and regulate safety, no utility in paying with credit more than they
+            can get in cash or settled-trade)
+            <br />
+            <br />
             "Earned income tax credit is great because the children become the
             assets of the state" - anonymous
             <br />
