@@ -52,6 +52,13 @@ export default class App extends React.Component {
               borderRadius: "10px"
             }}
           >
+      "Investment in our" is government/bond-holder property, not the people<br/><br/>
+            If "corporations should pay for american workers" because decades of
+            policy added wage-deductible profits, do that as a tort but get them
+            at the sale and let them make free-rider-mutable purchases&nbsp;
+            <a href="https://foiegras.life">where demand is</a>
+            <br />
+            <br />
             "I hope people can overcome their reservations about "vaccine"/
             <a href="https://humanharvest.info">grafts</a>&nbsp;in the near
             future. We want people to be safe, and wear&nbsp;
