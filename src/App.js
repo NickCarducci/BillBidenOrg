@@ -52,6 +52,21 @@ export default class App extends React.Component {
               borderRadius: "10px"
             }}
           >
+            "I hope people can overcome their reservations about "vaccine"/
+            <a href="https://humanharvest.info">grafts</a>&nbsp;in the near
+            future. We want people to be safe, and wear&nbsp;
+            <a href="https://moldmask.co">masks</a>," winks Nancy Pelosi
+            <br />
+            <br />
+            "Earned income tax credit is great because the children become the
+            assets of the state" - anonymous
+            <br />
+            <br />
+            Hold the line of duty. It’s literally just a line of dootie. Helpful
+            is having true advertising, prisoner is a cost, proper end to end
+            intranet for non violent
+            <br />
+            <br />
             <div style-={{ position: "relative", width: "100%" }}>
               <img
                 style={{ width: "100%", height: "auto" }}
