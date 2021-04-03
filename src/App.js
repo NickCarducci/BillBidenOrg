@@ -43,12 +43,15 @@ export default class App extends React.Component {
           }}
         >
           These police departments got grants for counterfeit in contract
-          trading
+          trading - goes a long way in damage and doesn't help demand when&nbsp;
+          <b style={{ color: "blue" }}>trade is settled</b>
           <br />
           <br />
           1.6m crashes a year; isn't fine-based revenue enough to just do it. I
-          don't get the payment - to pay off bills? THOSE ARE FAKE, ILLEGAL &
-          PRICE-FIXED
+          don't get the payment / it only raises prices by their living
+          cost-demand and doesn't change supply -&nbsp;
+          <b style={{ color: "blue" }}>to pay off bills</b>? THOSE ARE FAKE,
+          ILLEGAL & PRICE-FIXED
           <br />
           <br />
           "People who do numbers for a living don't talk about the lie of CPI
