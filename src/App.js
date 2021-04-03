@@ -61,7 +61,9 @@ export default class App extends React.Component {
             <br />
             <br />
             The only reason to be incorporated is to sell shares on the SEC
-            exchange. Liability protection means nothing
+            exchange. Liability protection means nothing. Comparative law is the
+            best liability protection, apart from risk-aversion and
+            competitive-accountability
             <br />
             <br />
             plea to state is not protected by duress as void? dork, bite your tongue
