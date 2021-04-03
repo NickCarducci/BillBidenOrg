@@ -52,6 +52,11 @@ export default class App extends React.Component {
               borderRadius: "10px"
             }}
           >
+            "I sit on diosis board to help them raise money [donation, so not
+            raise-money as usually used to sell-out, not&nbsp;
+            <a href="https://vaults.biz">vaults.biz</a>]"
+            <br />
+            <br />
             Job creation is not the goal for technological advancement, so only
             (income:employed)/(hours-worked:population)*median-home-price (over
             all time to debt=0) should be raised by "intervention" if you must
