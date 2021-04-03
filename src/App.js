@@ -42,6 +42,10 @@ export default class App extends React.Component {
             position: "relative"
           }}
         >
+          Masks cause mold, which helps virus, need to breath out moisture,
+          which goes straight up: needs to be fanned dust to catch in air
+          <br />
+          <br />
           MammothNation.com: It is illegal to have "discount club" for
           price-variable-gift-cards (all-services or non-compete-subscription)
           not settled goods if there exists any time-based,
