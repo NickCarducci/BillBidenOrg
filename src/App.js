@@ -46,7 +46,7 @@ export default class App extends React.Component {
           <a href="https://www.isidewith.com/poll/488729614/stance/488729626">
             smirconish has polls without login
           </a>
-          &nbsp;smash the vpn, they don't get signatures
+          &nbsp;smash the vpn, they don't check signatures
           <br />
           <br />
           Masks cause mold, which helps virus, need to breath out moisture,
