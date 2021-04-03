@@ -52,6 +52,9 @@ export default class App extends React.Component {
               borderRadius: "10px"
             }}
           >
+            Active psychosis is does not have to be subject to appeal you fucking slut
+          <br />
+          <br />
             Investment, join us, sell out, trained in microeconomics, government
             history & calculus -&nbsp;<a href="https://lightte.ch">govtech</a>
             &nbsp;entrepreneur
