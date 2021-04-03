@@ -42,7 +42,7 @@ export default class App extends React.Component {
             position: "relative"
           }}
         >
-          Free trade requires settled and secured security:&nbsp;
+          Free enterprise requires settled and secured security:&nbsp;
           <a href="https://www.isidewith.com/poll/488729614/stance/488729626">
             smirconish has polls without login
           </a>
