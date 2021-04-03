@@ -52,9 +52,21 @@ export default class App extends React.Component {
               borderRadius: "10px"
             }}
           >
+            Financial Sector, "economically-sensitive stocks" - Stephanie Link:
+            (price) 1x book valued (finance) 43x reality, settled (economic)
+            <br />
+            <br />
             "I sit on diosis board to help them raise money [donation, so not
             raise-money as usually used to sell-out, not&nbsp;
             <a href="https://vaults.biz">vaults.biz</a>]"
+            <br />
+            <br />
+            33%+ household savings rate one time John Longorio, for multitude of
+            debt, "bipartisan, not one person , in congress, to denouce it"
+            <br />
+            <br />
+            "Operation warp speed, fed is easy" (you want liquidity? kneecap
+            rent-seekers)
             <br />
             <br />
             Job creation is not the goal for technological advancement, so only
