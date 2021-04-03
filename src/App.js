@@ -66,7 +66,13 @@ export default class App extends React.Component {
             Nancy, you are colluding with bond-holders.&nbsp;
             <b style={{ color: "blue" }}>turn off the water</b>, margin-target
             and regulate safety, no utility in paying with credit more than they
-            can get in cash or settled-trade)
+            can get in cash or settled-trade. Moreover, this does not happen
+            sooner by debt.&nbsp;
+            <a href="https://micro-theory.com" style={{ fontWeight: "bolder" }}>
+              It happens soon if you take government action - debt, being
+              free-rider-immutable taxes and microeconomic regulation
+            </a>
+            )
             <br />
             <br />
             "Earned income tax credit is great because the children become the
