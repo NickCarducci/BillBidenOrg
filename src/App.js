@@ -55,6 +55,8 @@ export default class App extends React.Component {
             Job creation is not the goal for technological advancement, so only
             (income:employed)/(hours-worked:population)*median-home-price (over
             all time to debt=0) should be raised by "intervention" if you must
+            shareholders have to make group decisions on split or reverse-split,
+            now used for credit or invoices
             <br />
             <br />
             “Higher taxes will increase growth by investment," but that is a
