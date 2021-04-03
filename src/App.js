@@ -51,6 +51,11 @@ export default class App extends React.Component {
               borderRadius: "10px"
             }}
           >
+            Job creation is not the goal for technological advancement, so only
+            (hours-worked:population)/(income:employed)/median-home-price (over
+            all time to debt=0) should be raised by "intervention" if you must
+            <br />
+            <br />
             “Higher taxes will increase growth by investment," but that is a
             tenth of the cost to pay twice at most WE MUST SHMITA FOR GOOD,
             individual decisions as shareholder my&nbsp;
@@ -1571,4 +1576,3 @@ export default class App extends React.Component {
     );
   }
 }
-
