@@ -359,6 +359,9 @@ export default class App extends React.Component {
           <br />
           “Delivering us the Eucharist,” I doubt Jesus ever said that witchcraft
           <br />
+          He big-shamed King Solomon in Old T and sacrifice for witchcraft in
+          New T
+          <br />
           <br />
           <div
             style={{
