@@ -42,6 +42,11 @@ export default class App extends React.Component {
             position: "relative"
           }}
         >
+          MammothNation.com: It is illegal to have "discount club" for
+          price-variable-gift-cards (all-services or non-compete-subscription)
+          not settled goods if there exists any time-based,
+          borrower-customer-launder-and-loiter debt
+          <br />
           <div
             style={{
               backgroundColor: "white",
