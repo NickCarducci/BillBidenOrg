@@ -53,7 +53,11 @@ export default class App extends React.Component {
             }}
           >
             Active psychosis is does not have to be subject to appeal you
-            fucking slut.&nbsp;
+            fucking slut&nbsp;
+            <a href="https://www.njleg.state.nj.us/members/BIO.asp?Leg=346">
+              go kill yourself bitch
+            </a>
+            .&nbsp;
             <a href="https://www.webmd.com/schizophrenia/guide/what-is-psychosis">
               you are acting out of bounds of reality, I am dealing with the
               real world
