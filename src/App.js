@@ -42,6 +42,29 @@ export default class App extends React.Component {
             position: "relative"
           }}
         >
+          <div
+            style={{
+              backgroundColor: "white",
+              margin: "10px",
+              padding: "10px",
+              border: "1px solid rgb(200,200,200)",
+              borderRadius: "10px"
+            }}
+          >
+            Larry Kudlow gives&nbsp;
+            <a href="https://micro-theory.com">Microeconomics</a>&nbsp;a failing
+            grade
+            <br />
+            <br />
+            Free enterprise and prosperity requires settled and secured
+            security:&nbsp;
+            <a href="https://www.isidewith.com/poll/488729614/stance/488729626">
+              smirconish has polls without login
+            </a>
+            &nbsp;smash the vpn, they don't check signatures
+          </div>
+          <br />
+          <br />
           Free enterprise and prosperity requires settled and secured security:&nbsp;
           <a href="https://www.isidewith.com/poll/488729614/stance/488729626">
             smirconish has polls without login
