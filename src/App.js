@@ -67,7 +67,14 @@ export default class App extends React.Component {
             <br />
             <br />
             We will never be able to stamp out these&nbsp;
-            <a href="https://moldmask.co">virus'</a>
+            <a href="https://moldmask.co">virus'</a>, induced antibodies can
+            never be enough although they can be; regardless the B-cell
+            oncogenesis or other unseen lifetime effects cannot force action
+            upon entry. Regardless,&nbsp;
+            <b style={{ color: "purple" }}>
+              Civil Rights Act not required, only free-rider-exclusion of
+              allotment of profits/assets
+            </b>
           </div>
           <br />
           These police departments got grants for counterfeit in contract
