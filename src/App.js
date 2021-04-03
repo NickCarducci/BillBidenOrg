@@ -50,7 +50,7 @@ export default class App extends React.Component {
               padding: "10px",
               border: "1px solid rgb(200,200,200)",
               borderRadius: "10px"
-            }}
+            }}Tax/debt is good for investment carrot...<br/><br/>
           >“Their undue burdens, or whatever” - Liz Peak
       <br/>
       <br/>
