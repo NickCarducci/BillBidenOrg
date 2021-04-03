@@ -52,6 +52,18 @@ export default class App extends React.Component {
               borderRadius: "10px"
             }}
           >
+            Statute of limitations are appropriate if the only reason for delay
+            is malfeasance, which shouldn't be assumed but have to be proven
+            <br />
+            <br />
+            especially because it costs money to file and/or there are public
+            domain records
+            <br />
+            <br />
+            The only reason to be incorporated is to sell shares on the SEC
+            exchange. Liability protection means nothing
+            <br />
+            <br />
             plea to state is not protected by duress as void? dork, bite your tongue
             <br />
             <br />
