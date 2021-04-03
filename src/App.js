@@ -42,6 +42,8 @@ export default class App extends React.Component {
             position: "relative"
           }}
         >
+          Why do I keep getting this advertisement for supplier collusion
+          against labor to keep profits/assets
           <div
             style={{
               backgroundColor: "white",
