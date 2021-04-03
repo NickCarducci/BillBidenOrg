@@ -52,12 +52,23 @@ export default class App extends React.Component {
               borderRadius: "10px"
             }}
           >
+            <div style-={{ position: "relative", width: "100%" }}>
+              <img
+                style={{ width: "100%", height: "auto" }}
+                src="https://www.dl.dropboxusercontent.com/s/q7sxtwc8v2k7cy4/SavingsCorner.jpg?dl=0"
+                alt="geico 'savings around corner' ad on howstuffworks.com, prisoner-dilemma duress infraction per false advertising"
+              />
+            </div>
+            geico savings around corner claim, absolute +/- requires relative
+            savings in action of prisoner-dilemma duress
+            <br />
             Tax/debt is good for investment carrot... unless you are looking for
             conflicting interests, Steve Mooore. hot stuff
             <br />
-            <br />“Their undue burdens, or whatever” - Liz Peak
-      <br/>
-      <br/>
+            <br />
+            “Their undue burdens, or whatever” - Liz Peak
+            <br />
+            <br />
             Financial Sector, "economically-sensitive stocks" - Stephanie Link:
             (price) 1x book valued (finance) 43x reality, settled (economic)
             <br />
