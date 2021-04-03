@@ -52,6 +52,11 @@ export default class App extends React.Component {
               borderRadius: "10px"
             }}
           >
+            Investment, join us, sell out, trained in microeconomics, government
+            history & calculus -&nbsp;<a href="https://lightte.ch">govtech</a>
+            &nbsp;entrepreneur
+            <br />
+            <br />
             Steve Moore: "EVERYTHING IS WORTH $40[0]t dollars." there is only
             $2t sir. "Everyone will be talking about how Trump saved us from
             this horrible vaccine," what?
