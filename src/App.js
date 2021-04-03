@@ -51,6 +51,25 @@ export default class App extends React.Component {
               borderRadius: "10px"
             }}
           >
+            “Higher taxes will increase growth by investment," but that is a
+            tenth of the cost to pay twice at most WE MUST SHMITA FOR GOOD,
+            individual decisions as shareholder my&nbsp;
+            <span role="img" aria-label="peach emoji">
+              🍑
+            </span>
+            <br />
+            <br />
+            <div
+              style={{
+                fontSize: "25px",
+                width: "100%",
+                lineHeight: "3",
+                backgroundColor: "rgb(255,150,140)"
+              }}
+            >
+              On Strike: Credit Marketplace
+            </div>
+            <br />
             Larry Kudlow gives&nbsp;
             <a href="https://micro-theory.com">Microeconomics</a>&nbsp;a failing
             grade
@@ -63,13 +82,6 @@ export default class App extends React.Component {
             </a>
             &nbsp;smash the vpn, they don't check signatures
           </div>
-          <br />
-          <br />
-          Free enterprise and prosperity requires settled and secured security:&nbsp;
-          <a href="https://www.isidewith.com/poll/488729614/stance/488729626">
-            smirconish has polls without login
-          </a>
-          &nbsp;smash the vpn, they don't check signatures
           <br />
           <br />
           Masks cause mold, which helps virus, need to breath out moisture,
@@ -1559,3 +1571,4 @@ export default class App extends React.Component {
     );
   }
 }
+
