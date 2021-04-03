@@ -52,9 +52,11 @@ export default class App extends React.Component {
               borderRadius: "10px"
             }}
           >
-            Steve Moore: "EVERYTHING IS WORTH $40[0]t dollars." there is only $2t sir
-          <br />
-          <br />
+            Steve Moore: "EVERYTHING IS WORTH $40[0]t dollars." there is only
+            $2t sir. "Everyone will be talking about how Trump saved us from
+            this horrible vaccine," what?
+            <br />
+            <br />
       "Investment in our" is government/bond-holder property, not the people<br/><br/>
             If "corporations should pay for american workers" because decades of
             policy added wage-deductible profits, do that as a tort but get them
