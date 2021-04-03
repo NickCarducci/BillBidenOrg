@@ -42,6 +42,19 @@ export default class App extends React.Component {
             position: "relative"
           }}
         >
+          These police departments got grants for counterfeit in contract
+          trading
+          <br />
+          <br />
+          1.6m crashes a year; isn't fine-based revenue enough to just do it. I
+          don't get the payment - to pay off bills? THOSE ARE FAKE, ILLEGAL &
+          PRICE-FIXED
+          <br />
+          <br />
+          "People who do numbers for a living don't talk about the lie of CPI
+          and input cost inflation on TV and I don't know why" - Tucker Carlson
+          <br />
+          <br />
           Why do I keep getting this advertisement for supplier collusion
           against labor to keep profits/assets
           <div
