@@ -99,6 +99,9 @@ export default class App extends React.Component {
             <a href="https://micro-theory.com">Microeconomics</a>&nbsp;a failing
             grade
             <br />
+            "He owes this guy money, and as NEC director, we helped him with
+            that"
+            <br />
             <br />
             Free enterprise and prosperity requires settled and secured
             security:&nbsp;
