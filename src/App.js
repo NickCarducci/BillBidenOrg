@@ -58,7 +58,7 @@ export default class App extends React.Component {
             <br />
             <br />
             Job creation is not the goal for technological advancement, so only
-            (population:hours-worked)/(income:employed)*median-home-price (over
+            (population:hours-worked)*(income:employed)/median-home-price (over
             all time to debt=0) should be raised by "intervention" if you must
             shareholders have to make group decisions on split or reverse-split,
             now used for credit or invoices
