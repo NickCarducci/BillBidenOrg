@@ -52,10 +52,15 @@ export default class App extends React.Component {
               borderRadius: "10px"
             }}
           >
+            plea to state is not protected by duress as void? dorks
+            <br />
+            <br />
             Active psychosis is does not have to be subject to appeal you
             fucking slut&nbsp;
             <a href="https://www.njleg.state.nj.us/members/BIO.asp?Leg=346">
-              go kill yourself bitch
+              go&nbsp;
+              <span style={{ textDecoration: "line-through" }}>kill</span>
+              &nbsp;disarm yourself bitch
             </a>
             .&nbsp;
             <a href="https://www.webmd.com/schizophrenia/guide/what-is-psychosis">
