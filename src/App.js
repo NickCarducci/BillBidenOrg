@@ -52,7 +52,7 @@ export default class App extends React.Component {
               borderRadius: "10px"
             }}
           >
-            plea to state is not protected by duress as void? dorks
+            plea to state is not protected by duress as void? dork, bite your tongue
             <br />
             <br />
             Active psychosis is does not have to be subject to appeal you
