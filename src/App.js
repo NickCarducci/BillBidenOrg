@@ -42,6 +42,34 @@ export default class App extends React.Component {
             position: "relative"
           }}
         >
+          <div
+            style={{
+              backgroundColor: "white",
+              margin: "10px",
+              padding: "10px",
+              border: "1px solid rgb(200,200,200)",
+              borderRadius: "10px"
+            }}
+          >
+            IBM (Jason,&nbsp;
+            <a href="https://covid19vaccine.health.ny.gov/excelsior-pass">
+              Excelsior
+            </a>
+            ) & NY State: "our job is to bring innovation to us and the world" I
+            can hear the IP&nbsp;
+            <a href="https://wavv.art">envy</a>
+            <br />
+            <br />
+            Beast Market Entry Mentioned in Revelations
+            <br />
+            <br />
+            Pressure to act is illegal Smirkonish (CNN)....
+            <br />
+            <br />
+            We will never be able to stamp out these&nbsp;
+            <a href="https://moldmask.co">virus'</a>
+          </div>
+          <br />
           These police departments got grants for counterfeit in contract
           trading - goes a long way in damage and doesn't help demand when&nbsp;
           <b style={{ color: "blue" }}>trade is settled</b>
