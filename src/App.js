@@ -52,6 +52,10 @@ export default class App extends React.Component {
               borderRadius: "10px"
             }}
           >
+            Sales tax of a housing sale prohibits trade and market liquidity
+            {/**Save the Nation, Newsmax; Jack, Rex */}
+            <br />
+            <br />
             <a href="http://3under2.us">3under2.us</a>&nbsp;a proportion of
             police spending to trueGDP
             <br />
@@ -98,6 +102,29 @@ export default class App extends React.Component {
             Trump.
             <br />
             3% under $2k #3under2
+            <br />
+            <br />
+            "'savings' accounts, and the borrowings against it"
+            <br />
+            <br />
+            It is valuation owed insured by itself... abject collusion and
+            misrepresentation
+            <br />
+            <br />
+            "stagflation after bringing demand forward"
+            <br />
+            <br />
+            <div style={{ position: "relative", width: "100%" }}>
+              <a href="https://jobcreatorsnetwork.com">
+                <img
+                  alt="https://jobcreatorsnetwork.com"
+                  style={{ width: "100%", height: "auto" }}
+                  src="https://www.dl.dropboxusercontent.com/s/xrccc0hn70khec7/StagflationForward.jpg?dl=0"
+                />
+              </a>
+            </div>
+            "The bill will cut child poverty in half for a month." - CNN Fareed
+            Zakaria
             <br />
             <br />
             “1994 Bush and Clinton said to each other we can do things again,”
@@ -223,7 +250,7 @@ export default class App extends React.Component {
             intranet for non violent
             <br />
             <br />
-            <div style-={{ position: "relative", width: "100%" }}>
+            <div style={{ position: "relative", width: "100%" }}>
               <img
                 style={{ width: "100%", height: "auto" }}
                 src="https://www.dl.dropboxusercontent.com/s/q7sxtwc8v2k7cy4/SavingsCorner.jpg?dl=0"
