@@ -70,7 +70,8 @@ export default class App extends React.Component {
             Electioneiring gifts is voter interference, but they should be able
             to be tatle-taled by those also in line for mentions of a candidate
             (imo not an issue, that is ok for civil rights and be clear with all
-            known factors and effects) {/**rep donalds fl */}
+            known factors and effects) {/** qt rep donalds fl */} but COMPANIES
+            CAN SOLICIT ON CIVIL RIGHTS NOT PARTY or creed otherwise
             <br />
             <br />
             Jazmine Brown [Bail-out-Barack-careless-gif]
