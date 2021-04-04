@@ -52,6 +52,22 @@ export default class App extends React.Component {
               borderRadius: "10px"
             }}
           >
+            Jazmine Brown [Bail-out-Barack-careless-gif]
+            <br />
+            <br />
+            Nick Carducci haha very fitting, I am bookkeeper for home-builders,
+            we need a shmita for good
+            <br />
+            <br />
+            Jazmine Brown Cardookie bye
+            <br />
+            <br />
+            Nick Carducci brown is now the slave-trader look at that
+            <br />
+            <br />
+            Jazmine Brown Climbing down that wall I see
+            <br />
+            <br />
             “American values are to tax the rich corporates when people
             communize into groups and make a bunch of money,” some lady on @cnn
             who says war bond gold confiscation was warranted.
