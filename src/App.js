@@ -52,6 +52,41 @@ export default class App extends React.Component {
               borderRadius: "10px"
             }}
           >
+            “American values are to tax the rich corporates when people
+            communize into groups and make a bunch of money,” some lady on @cnn
+            who says war bond gold confiscation was warranted.
+            <br />
+            WWII was advertised to lower debt but the third reich spent like
+            Trump.
+            <br />
+            3% under $2k #3under2
+            <br />
+            <br />
+            “1994 Bush and Clinton said to each other we can do things again,”
+            remarks a guy on @cnn about lying to savers about valuation and
+            self-insurance by repealing glass steagal
+            <br />
+            <br />
+            Not not is it already illegal per Sherman Act, Amendment 14&13, but
+            not yet precedent; but it is functionally impossible. This is not
+            only a way to please Nick Carducci, but it is only so because it
+            will make life easier and more fruitful for everyone
+            <br />
+            <br />
+            And then earn it back from the lunch lady or launder it from
+            customers! Merely for a higher priced-capacity of Demand and same
+            Supply frugality
+            <br />
+            <br />
+            Charity is worse than fasting or volunteering given price elasticity
+            <br />
+            <br />
+            Private sector costs are Demand
+            <br />
+            <br />
+            We need a shmita for good
+            <br />
+            <br />
             Statute of limitations are appropriate if the only reason for delay
             is malfeasance, which shouldn't be assumed but have to be proven
             <br />
@@ -66,7 +101,8 @@ export default class App extends React.Component {
             competitive-accountability
             <br />
             <br />
-            plea to state is not protected by duress as void? dork, bite your tongue
+            plea to state is not protected by duress as void? dork, bite your
+            tongue
             <br />
             <br />
             Active psychosis is does not have to be subject to appeal you
@@ -93,7 +129,10 @@ export default class App extends React.Component {
             this horrible vaccine," what?
             <br />
             <br />
-      "Investment in our" is government/bond-holder property, not the people<br/><br/>
+            "Investment in our" is government/bond-holder property, not the
+            people
+            <br />
+            <br />
             If "corporations should pay for american workers" because decades of
             policy added wage-deductible profits, do that as a tort but get them
             at the sale and let them make free-rider-mutable purchases&nbsp;
