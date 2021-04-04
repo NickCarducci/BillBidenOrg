@@ -57,6 +57,13 @@ export default class App extends React.Component {
               borderRadius: "10px"
             }}
           >
+            "Highest unemployment (those who lost jobs overreach, this is no
+            different than unions prohibiting trade)," (GPB) Texas Land
+            Commisioner. Otherwise, cancellation you can get a portion thats is
+            done, if not possible, it can likely be recouped in cash, if
+            possible.&nbsp;<a href="https://scopes.cc">accrual-zero</a>
+            <br />
+            <br />
             "Everything over vaccine risks of overheating as to open back up..."
             -&nbsp;
             <a href="https://www.theguardian.com/world/video/2020/dec/23/neil-ferguson-new-covid-variant-in-great-majority-if-not-all-european-countries-video">
@@ -1843,4 +1850,3 @@ export default class App extends React.Component {
     );
   }
 }
-
