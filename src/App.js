@@ -57,6 +57,10 @@ export default class App extends React.Component {
               borderRadius: "10px"
             }}
           >
+            Can you decline, what will happen? Then it is violent
+            (not-jail-until-action-or-plan, not responsive-threat)
+            <br />
+            <br />
             BANNING PRIVATE EDUCATION IS INCREDIBLE, RADICAL AND VIOLENT
             USURPING OF SCIENCE
             <br />
