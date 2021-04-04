@@ -31,6 +31,11 @@ export default class App extends React.Component {
             alt="https://carducci.sh"
             src="https://www.dl.dropboxusercontent.com/s/487x41r0dxm700k/me%20in%20cancun.jpg?dl=0"
           />
+          <img
+            style={{ width: "100%", height: "auto" }}
+            alt="https://carducci.sh"
+            src="https://www.dl.dropboxusercontent.com/s/pa332mwdpgsepad/AirplaneMode.jpg?dl=0"
+          />
         </div>
         <div
           style={{
@@ -56,9 +61,10 @@ export default class App extends React.Component {
             USURPING OF SCIENCE
             <br />
             <br />
-            UNIONS ARE ONLY TO PROTECT STRIKES NOT PROHIBIT TRADE{/**Dick Morris, fire who they must */}
-          <br />
-          <br />
+            UNIONS ARE ONLY TO PROTECT STRIKES NOT PROHIBIT TRADE
+            {/**Dick Morris, fire who they must */}
+            <br />
+            <br />
             Sales tax of a housing sale prohibits trade and market liquidity
             {/**Save the Nation, Newsmax; Jack, Rex */}
             <br />
@@ -1824,3 +1830,4 @@ export default class App extends React.Component {
     );
   }
 }
+
