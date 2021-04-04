@@ -52,11 +52,32 @@ export default class App extends React.Component {
               borderRadius: "10px"
             }}
           >
+            <a href="http://3under2.us">3under2.us</a>&nbsp;a proportion of
+            police spending to trueGDP
+            <br />
+            <br />
+            “Biden is scaring a lot of people who voted for him. Let’s turn it
+            around so we don’t bankrupt the country,” - @StephenMoore
+            <br />
+            <br />
+            “Betting against the Gov has been a bad bet for a century, because
+            they price-fix, but now they aren’t going to prosecute dollar
+            competitors now that the assets are owned by people that will not
+            sell. I expect the federal reserve to damage dollar owners” - Kevin
+            Warsh, Fmr Fed Bd
+            <br />
+            <br />
+            Electioneiring gifts is voter interference, but they should be able
+            to be tatle-taled by those also in line for mentions of a candidate
+            (imo not an issue, that is ok for civil rights and be clear with all
+            known factors and effects) {/**rep donalds fl */}
+            <br />
+            <br />
             Jazmine Brown [Bail-out-Barack-careless-gif]
             <br />
             <br />
             Nick Carducci haha very fitting, I am bookkeeper for home-builders,
-            we need a shmita for good
+            we need a&nbsp;<b style={{ color: "green" }}>shmita for good</b>
             <br />
             <br />
             Jazmine Brown Cardookie bye
@@ -89,9 +110,23 @@ export default class App extends React.Component {
             will make life easier and more fruitful for everyone
             <br />
             <br />
-            And then earn it back from the lunch lady or launder it from
-            customers! Merely for a higher priced-capacity of Demand and same
-            Supply frugality
+            <b style={{ color: "purple" }}>
+              And then earn it back from the lunch lady or launder it from
+              customers! Merely for a higher priced-capacity of Demand and same
+              Supply frugality
+            </b>
+            <br />
+            <br />
+            I do not sell my equity to keep it tight for customers
+            <br />
+            <br />
+            "Gives us hope of life after death" is not what Jesus did. Jesus
+            only said to eat His body in one night he didn't say to do it every
+            Sunday. He didn't even say he would die like animal sacrifice for
+            Sin @RudyGiuliani @MariaRyanNH
+            <br />
+            <br />
+            On a Sunday Jesus healed a case of leprosy?
             <br />
             <br />
             Charity is worse than fasting or volunteering given price elasticity
@@ -100,7 +135,7 @@ export default class App extends React.Component {
             Private sector costs are Demand
             <br />
             <br />
-            We need a shmita for good
+            We need a&nbsp;<b style={{ color: "green" }}>shmita for good</b>
             <br />
             <br />
             Statute of limitations are appropriate if the only reason for delay
