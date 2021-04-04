@@ -52,6 +52,9 @@ export default class App extends React.Component {
               borderRadius: "10px"
             }}
           >
+            UNIONS ARE ONLY TO PROTECT STRIKES NOT PROHIBIT TRADE{/**Dick Morris, fire who they must */}
+          <br />
+          <br />
             Sales tax of a housing sale prohibits trade and market liquidity
             {/**Save the Nation, Newsmax; Jack, Rex */}
             <br />
