@@ -52,6 +52,10 @@ export default class App extends React.Component {
               borderRadius: "10px"
             }}
           >
+            BANNING PRIVATE EDUCATION IS INCREDIBLE, RADICAL AND VIOLENT
+            USURPING OF SCIENCE
+            <br />
+            <br />
             UNIONS ARE ONLY TO PROTECT STRIKES NOT PROHIBIT TRADE{/**Dick Morris, fire who they must */}
           <br />
           <br />
