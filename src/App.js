@@ -57,6 +57,15 @@ export default class App extends React.Component {
               borderRadius: "10px"
             }}
           >
+            "Everything over vaccine risks of overheating as to open back up..."
+            -&nbsp;
+            <a href="https://www.theguardian.com/world/video/2020/dec/23/neil-ferguson-new-covid-variant-in-great-majority-if-not-all-european-countries-video">
+              neil furgeson
+            </a>
+            . but they make cold antibodies which don't work on non-natural
+            antigens, but they "are the same," with non-natural antibodies
+            <br />
+            <br />
             Can you decline, what will happen? Then it is violent
             (not-jail-until-action-or-plan, not responsive-threat)
             <br />
