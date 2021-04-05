@@ -543,6 +543,15 @@ export default class App extends React.Component {
           -threat of self-defense?
           <br />
           <br />
+          reports of in-conjunction for po-po: top of citations are tenants;
+          it's slavery
+          <br />
+          <br />
+          Orchestrated bail-bond & tort-reform-malfeasance (any-non-tort-fine is
+          fraud) people threat by breaking windows kneecaps, release violent.
+          Abject evidence
+          <br />
+          <br />
           Help,&nbsp;
           <a href="https://twitter.com/JDWackrow">I don't want to talk</a>, I
           want my rights
@@ -1894,4 +1903,3 @@ export default class App extends React.Component {
     );
   }
 }
-
