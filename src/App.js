@@ -57,6 +57,15 @@ export default class App extends React.Component {
               borderRadius: "10px"
             }}
           >
+            <h1>
+              <a href="https://bankingisnot.biz">
+                Business is consensual, and not-of-duress, settled-exchange
+              </a>
+            </h1>
+            <h2>
+              Escrow is for-sprint or deposit-based-claims of which are
+              not-automatically-price-discriminatory, as for which an option is
+            </h2>
             "Highest unemployment (those who lost jobs overreach, this is no
             different than unions prohibiting trade)," (GPB) Texas Land
             Commisioner. Otherwise, cancellation you can get a portion thats is
@@ -1885,3 +1894,4 @@ export default class App extends React.Component {
     );
   }
 }
+
