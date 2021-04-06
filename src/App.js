@@ -57,6 +57,9 @@ export default class App extends React.Component {
               borderRadius: "10px"
             }}
           >
+            Secret-report-investment-club-pay-to-play-abject-insider-trading $1t
+            r&d actual;$2.2t r&d estimated (principle + debt + interest +
+            chickenscratch)
             <h1>
               <a href="https://bankingisnot.biz">
                 Business is consensual, and not-of-duress, settled-exchange
