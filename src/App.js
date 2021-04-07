@@ -57,6 +57,43 @@ export default class App extends React.Component {
               borderRadius: "10px"
             }}
           >
+            <h1>Biden Sop Jobs Supply with Counterfeit Monopsony</h1>won't let
+            prices fall
+            <div
+              style={{
+                position: "relative",
+                width: "100%",
+                minWidth: "100px",
+                maxWidth: "500px"
+              }}
+            >
+              <img
+                style={{
+                  height: "auto",
+                  width: "100%"
+                }}
+                alt="Biden Remarks on Jobs Act"
+                src="https://www.dl.dropboxusercontent.com/s/2tq3ivs7e60lpv1/BidenSopJobs.jpg?dl=0"
+              />
+            </div>
+            <br />
+            how does "+$1t/-$2.2t reduce debt over the long term?" @POTUS
+            <br />
+            <br />
+            This is not the right thing. push fee-rider-immutable costs to the
+            consumer of the services. margin-target broadband & water-pipes must
+            be up to code of the monopsonies
+            <br />
+            <br />
+            63% people want to tax to pay off debt, not infra! how stupid when
+            it is only possibly 1/44 enough @POTUS
+            <br />
+            <br />
+            https://isidewith.com/poll/488729614 fairest way to pay for
+            infrastructure is monopsony-margin-targeting, sales-tax w/
+            spoofable-geohash-on-transaction-line sent to districts, & tolls
+            <br />
+            <br />
             Secret-report-investment-club-pay-to-play-abject-insider-trading $1t
             r&d actual;$2.2t r&d estimated (principle + debt + interest +
             chickenscratch)
