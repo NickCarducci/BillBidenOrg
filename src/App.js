@@ -84,7 +84,7 @@ export default class App extends React.Component {
               🤣
             </span>
             <h3>
-              Reasonable doubt requires alternative …doubt, as until then it is
+              Reasonable doubt requires alternative …doubt, as until then it is not
               vivo
             </h3>
             <h2>
