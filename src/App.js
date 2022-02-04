@@ -58,7 +58,8 @@ export default class App extends React.Component {
             }}
           >
             <h1>Biden Sop Jobs Supply with Counterfeit Monopsony</h1>won't let
-            prices fall
+            prices fall: invoking donee, bond loss conflict of interest free
+            rider immutable security made mutable.
             <div
               style={{
                 position: "relative",
@@ -75,6 +76,64 @@ export default class App extends React.Component {
                 alt="Biden Remarks on Jobs Act"
                 src="https://www.dl.dropboxusercontent.com/s/2tq3ivs7e60lpv1/BidenSopJobs.jpg?dl=0"
               />
+            </div>
+            "Al Sharpton has no boss, he wouldn't be a great employee,"
+            non-profit just means you outlay (material+rent)/income.
+            <br />
+            <br />
+            Putin invading for pipeline rights, just target margin
+            spectrum/pipes/tolls.
+            <br />
+            <br />
+            <div
+              style={{
+                wordBreak: "break-word",
+                backgroundColor: "white",
+                margin: "0px 10px",
+                padding: "10px",
+                border: "1px solid rgb(200,200,200)",
+                borderRadius: "10px"
+              }}
+            >
+              Your admin forces medication on homeless to scapegoat laws.
+              <br />
+              <br />
+              You say general revenue asset sales are ‘free.’
+              <br />
+              <br />
+              You implausibly-use rent-seek and gentrify home-contracting >
+              condos+storefronts.
+              <br />
+              <br />
+              You invoke donee claimables and borrower defense implausibly
+              deniably impossible $12k/64 per person a year.
+              <br />
+              <br />
+              20% of U.S. land exploration is Saver donee.
+              <br />
+              <br />
+              $2t checking, $170t good will.
+              <br />
+              <br />
+              You trade science for closed source and bills’ donee invocations,
+              Obamacare pennywise discount insurance false bid pool loss.
+              <br />
+              “Extreme diplomacy, or a little bit off belligerence.”
+              <br />
+              Article 1.8 def doesn’t appropriate more than Article 4
+              <br />
+              Never has an Occupy Wall St supporter ran.
+              <br />
+              Front running without actual demand is not a bargain, especially
+              it it is expiring tranches. Desist, hold, not free 40% debt spend
+              amortized is all Saver
+              <br />
+              <br />
+              “Not a majority vertical, 1-level-board max-royalty, truncated
+              production tax, reverse amortize debts, Article 1.8 is oxymoronic
+              and certainly not beyond Article 4, (healthcare, education,
+              housing, gentrification, rent-seeking, stock sales, implausible
+              use, spectrum/tolls/science and market-donee rights.”
             </div>
             <br />
             how does "+$1t/-$2.2t reduce debt over the long term?" @POTUS
