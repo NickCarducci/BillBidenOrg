@@ -97,7 +97,25 @@ export default class App extends React.Component {
             Putin invading for pipeline rights, just target margin
             spectrum/pipes/tolls.
             <br />
+            <h2>
+              Discriminating against paid writers only on their advertisements,
+              not selling advertisements.
+            </h2>
+            Voluntary trade and Tranquil are to be protected over individual,
+            existing business, finite producer amidst free market infinite
+            producer demand == supply labor-borne-demand assumption for
+            productive-efficiency and economic welfare by tech advancement
+            (-GDP/p) and productivity (GDP/hours) indices
             <br />
+            <h3>
+              Discriminating against paid writers only on their advertisements,
+              not selling advertisements.
+              <br />
+              They can only discriminate advertisers, certainly not unpaid
+              premium placement, first, when they are advertising their own
+              content. Non-compete false bid pools Spotify sunk in from boycott
+              potential
+            </h3>
             <div
               style={{
                 wordBreak: "break-word",
