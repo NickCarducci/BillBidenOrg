@@ -57,6 +57,7 @@ export default class App extends React.Component {
               borderRadius: "10px"
             }}
           >
+            corporate and government debt-spending donee invoking.
             <h1>pay me to ban me</h1>
             40% debt spend amortized is all Saver.
             <br />
@@ -66,9 +67,12 @@ export default class App extends React.Component {
             <br />
             $12k/64 implausibly deniably purposeful debt/cash per person a year
             donee invocation and borrower defense
-            <h1>"Freedom rally" is terrorism.</h1>Do they honestly say they
-            aren’t antivaxx but say virion doesn’t kill people? It comes from
-            somewhere{" "}
+            <h1>
+              "Freedom rally" is{" "}
+              <a href="https://humanharvest.info/polio">terrorism</a>.
+            </h1>
+            Do they honestly say they aren’t antivaxx but say virion doesn’t
+            kill people? It comes from somewhere{" "}
             <span role="img" aria-label="side-splitting-laughter">
               🤣
             </span>
