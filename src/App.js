@@ -58,6 +58,20 @@ export default class App extends React.Component {
             }}
           >
             <h1>pay me to ban me</h1>
+            40% debt spend amortized is all Saver.
+            <br />
+            Donee claimable rights for GDP/hour-GDP/p is econ welfare, (-GDP/p
+            tech advancement).
+            <br />
+            <br />
+            $12k/64 implausibly deniably purposeful debt/cash per person a year
+            donee invocation and borrower defense
+            <h1>"Freedom rally" is terrorism.</h1>Do they honestly say they
+            aren’t antivaxx but say virion doesn’t kill people? It comes from
+            somewhere{" "}
+            <span role="img" aria-label="side-splitting-laughter">
+              🤣
+            </span>
             <h3>
               Reasonable doubt requires alternative …doubt, as until then it is
               vivo
@@ -69,10 +83,16 @@ export default class App extends React.Component {
             </h2>
             When reasonable doubt is no longer in doubt, it proves the
             conviction was null hypothesis, and not ever vivo, always in doubt,
-            but deduced, for no reasonable (>1/12 INDUSTRY-VARIABLE alternative)
+            but deduced, for no reasonable ({">"}1/12 INDUSTRY-VARIABLE
+            alternative)
             <h1>Biden Sop Jobs Supply with Counterfeit Monopsony</h1>won't let
             prices fall: invoking donee, bond loss conflict of interest free
             rider immutable security made mutable.
+            <br />
+            <br />
+            Only antimandate argument General Maintenance Unit will accept is
+            bacteria is cause of virion, but it isn’t even correlated now that
+            we test asymptomatically.
             <div
               style={{
                 position: "relative",
@@ -106,7 +126,14 @@ export default class App extends React.Component {
             producer demand == supply labor-borne-demand assumption for
             productive-efficiency and economic welfare by tech advancement
             (-GDP/p) and productivity (GDP/hours) indices
+            <h1>
+              (material+rent)/income is conspiracy to market concentrate by
+              labor costs, “lowering poverty.”
+            </h1>
+            216/day missing children forever because login.gov malfeasance,
+            convict intranet
             <br />
+            GDP/hour-GDP/p is econ welfare, (-GDP/p tech advancement)
             <h3>
               Discriminating against paid writers only on their advertisements,
               not selling advertisements.
