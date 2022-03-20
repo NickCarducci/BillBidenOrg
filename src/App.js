@@ -29,12 +29,12 @@ export default class App extends React.Component {
           <img
             style={{ width: "100%", height: "auto" }}
             alt="https://carducci.sh"
-            src="https://www.dl.dropboxusercontent.com/s/487x41r0dxm700k/me%20in%20cancun.jpg?dl=0"
+            src="https://www.dropbox.com/s/487x41r0dxm700k/me%20in%20cancun.jpg?raw=1"
           />
           <img
             style={{ width: "100%", height: "auto" }}
             alt="https://carducci.sh"
-            src="https://www.dl.dropboxusercontent.com/s/pa332mwdpgsepad/AirplaneMode.jpg?dl=0"
+            src="https://www.dropbox.com/s/pa332mwdpgsepad/AirplaneMode.jpg?raw=1"
           />
         </div>
         <div
@@ -84,7 +84,7 @@ export default class App extends React.Component {
               🤣
             </span>
             <h3>
-              Reasonable doubt requires alternative …doubt, as until then it is not
+              Reasonable doubt requires alternative …doubt, as until then it is
               vivo
             </h3>
             <h2>
@@ -118,7 +118,7 @@ export default class App extends React.Component {
                   width: "100%"
                 }}
                 alt="Biden Remarks on Jobs Act"
-                src="https://www.dl.dropboxusercontent.com/s/2tq3ivs7e60lpv1/BidenSopJobs.jpg?dl=0"
+                src="https://www.dropbox.com/s/2tq3ivs7e60lpv1/BidenSopJobs.jpg?raw=1"
               />
             </div>
             "Al Sharpton has no boss, he wouldn't be a great employee,"
@@ -364,7 +364,7 @@ export default class App extends React.Component {
                 <img
                   alt="https://jobcreatorsnetwork.com"
                   style={{ width: "100%", height: "auto" }}
-                  src="https://www.dl.dropboxusercontent.com/s/xrccc0hn70khec7/StagflationForward.jpg?dl=0"
+                  src="https://www.dropbox.com/s/xrccc0hn70khec7/StagflationForward.jpg?raw=1"
                 />
               </a>
             </div>
@@ -498,7 +498,7 @@ export default class App extends React.Component {
             <div style={{ position: "relative", width: "100%" }}>
               <img
                 style={{ width: "100%", height: "auto" }}
-                src="https://www.dl.dropboxusercontent.com/s/q7sxtwc8v2k7cy4/SavingsCorner.jpg?dl=0"
+                src="https://www.dropbox.com/s/q7sxtwc8v2k7cy4/SavingsCorner.jpg?raw=1"
                 alt="geico 'savings around corner' ad on howstuffworks.com, prisoner-dilemma duress infraction per false advertising"
               />
             </div>
@@ -913,7 +913,7 @@ export default class App extends React.Component {
                 `conspirator to loiter on the counterfeit means[reposession,borrowers' ` +
                 `consumers' down-payments and rights])`
               }
-              src="https://www.dl.dropboxusercontent.com/s/stzp3uea3o3y85y/FullSizeRender.jpeg?dl=0"
+              src="https://www.dropbox.com/s/stzp3uea3o3y85y/FullSizeRender.jpeg?raw=1"
             />
           </div>
           <br />
@@ -1187,7 +1187,7 @@ export default class App extends React.Component {
                   width: "100%",
                   height: "auto"
                 }}
-                src="https://www.dl.dropboxusercontent.com/s/yt1089433ca2ixp/measles.jpeg?dl=0"
+                src="https://www.dropbox.com/s/yt1089433ca2ixp/measles.jpeg?raw=1"
                 alt="always, not just sneeze https://pubmed.ncbi.nlm.nih.gov/17542834/"
               />
             </div>
@@ -1203,7 +1203,7 @@ export default class App extends React.Component {
                   height: "auto"
                 }}
                 alt="sneeze only"
-                src="https://www.dl.dropboxusercontent.com/s/bsr9axf89v6xbf0/sneezemeazles.jpeg?dl=0"
+                src="https://www.dropbox.com/s/bsr9axf89v6xbf0/sneezemeazles.jpeg?raw=1"
               />
             </div>
             <div style={{ border: "1px solid" }}>
@@ -1276,7 +1276,7 @@ export default class App extends React.Component {
                   width: "100%",
                   height: "auto"
                 }}
-                src="https://www.dl.dropboxusercontent.com/s/yoqwnhuhglhgaih/PelosiAid.png?dl=0"
+                src="https://www.dropbox.com/s/yoqwnhuhglhgaih/PelosiAid.png?raw=1"
               />
             </div>
           </a>
@@ -1351,7 +1351,7 @@ export default class App extends React.Component {
                 width: "100%",
                 height: "auto"
               }}
-              src="https://www.dl.dropboxusercontent.com/s/2qm9gjl8ntbjwij/Screen%20Shot%202021-03-18%20at%205.52.43%20PM.png?dl=0"
+              src="https://www.dropbox.com/s/2qm9gjl8ntbjwij/Screen%20Shot%202021-03-18%20at%205.52.43%20PM.png?raw=1"
             />
           </div>{" "}
           <br />
@@ -1404,7 +1404,7 @@ export default class App extends React.Component {
                 width: "100%",
                 height: "auto"
               }}
-              src="https://www.dl.dropboxusercontent.com/s/rmu061xr7qmv8hc/MentallIllness.png?dl=0"
+              src="https://www.dropbox.com/s/rmu061xr7qmv8hc/MentallIllness.png?raw=1"
             />
           </div>{" "}
           <br />
@@ -1596,7 +1596,7 @@ export default class App extends React.Component {
                 width: "100%",
                 height: "auto"
               }}
-              src="https://www.dl.dropboxusercontent.com/s/5y0pqlluy6n5kzw/bondfarm.png?dl=0"
+              src="https://www.dropbox.com/s/5y0pqlluy6n5kzw/bondfarm.png?raw=1"
             />
           </div>
           <br />
@@ -1642,7 +1642,7 @@ export default class App extends React.Component {
                 width: "100%",
                 height: "auto"
               }}
-              src="https://www.dl.dropboxusercontent.com/s/lkjq7h24te0f1xa/CommunistBryan.jpg?dl=0"
+              src="https://www.dropbox.com/s/lkjq7h24te0f1xa/CommunistBryan.jpg?raw=1"
             />
           </div>{" "}
           <br />
@@ -1796,7 +1796,7 @@ export default class App extends React.Component {
                 width: "100%",
                 height: "auto"
               }}
-              src="https://www.dl.dropboxusercontent.com/s/gukpmd68q0fmzxd/Screen%20Shot%202021-03-17%20at%2010.04.10%20PM.png?dl=0"
+              src="https://www.dropbox.com/s/gukpmd68q0fmzxd/Screen%20Shot%202021-03-17%20at%2010.04.10%20PM.png?raw=1"
             />
           </div>{" "}
           <br />
@@ -1888,7 +1888,7 @@ export default class App extends React.Component {
             gov forced upon us
           </a>
           &nbsp;in&nbsp;
-          <a href="https://www.dropbox.com/s/7kna7kxss5vxx96/SocialSecurityWarning.jpeg?dl=0">
+          <a href="https://www.dropbox.com/s/7kna7kxss5vxx96/SocialSecurityWarning.jpeg?raw=1">
             1937
           </a>
           , it is fraud - insurance generally is prisoners' dilemma duress of
@@ -1919,7 +1919,7 @@ export default class App extends React.Component {
                 `conspirator to loiter on the counterfeit means[reposession,borrowers' ` +
                 `consumers' down-payments and rights])`
               }
-              src="https://www.dl.dropboxusercontent.com/s/stzp3uea3o3y85y/FullSizeRender.jpeg?dl=0"
+              src="https://www.dropbox.com/s/stzp3uea3o3y85y/FullSizeRender.jpeg?raw=1"
             />
           </div>
           <br />
@@ -2060,7 +2060,7 @@ export default class App extends React.Component {
                   width: "14px",
                   height: "auto"
                 }}
-                src="https://www.dl.dropboxusercontent.com/s/oi43wpcc0h9phcz/saverAcorn%20%281%29.png?dl=0"
+                src="https://www.dropbox.com/s/oi43wpcc0h9phcz/saverAcorn%20%281%29.png?raw=1"
               />
             </span>
             <a href="https://saverparty.xyz">Saver Party</a>, Monopsony
